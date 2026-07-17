@@ -377,30 +377,38 @@ body {
 
 /* 侧边栏 sticky + 独立滚动 */
 @media (min-width: 1024px) {
-    main .flex.lg\\:flex-row > aside {
+    main .flex.lg\:flex-row > aside {
         position: sticky;
         top: 6rem;
         max-height: calc(100vh - 8rem);
-        overflow-y: auto;
-        padding-right: 0.25rem;
+        overflow-y: scroll;
+        scrollbar-gutter: stable;
+        padding-right: 0.5rem;
     }
 
-    /* 侧边栏内部滚动条样式 */
-    main .flex.lg\\:flex-row > aside::-webkit-scrollbar {
-        width: 6px;
+    /* Firefox 滚动条 */
+    main .flex.lg\:flex-row > aside {
+        scrollbar-width: thin;
+        scrollbar-color: var(--text-secondary) transparent;
     }
 
-    main .flex.lg\\:flex-row > aside::-webkit-scrollbar-track {
-        background: transparent;
+    /* 侧边栏内部滚动条样式 (WebKit) */
+    main .flex.lg\:flex-row > aside::-webkit-scrollbar {
+        width: 8px;
     }
 
-    main .flex.lg\\:flex-row > aside::-webkit-scrollbar-thumb {
-        background: var(--border-color);
-        border-radius: 3px;
+    main .flex.lg\:flex-row > aside::-webkit-scrollbar-track {
+        background: var(--bg-color);
+        border-radius: 4px;
     }
 
-    main .flex.lg\\:flex-row > aside::-webkit-scrollbar-thumb:hover {
+    main .flex.lg\:flex-row > aside::-webkit-scrollbar-thumb {
         background: var(--text-secondary);
+        border-radius: 4px;
+    }
+
+    main .flex.lg\:flex-row > aside::-webkit-scrollbar-thumb:hover {
+        background: var(--primary-light);
     }
 }
 
