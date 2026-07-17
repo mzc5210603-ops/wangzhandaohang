@@ -1,0 +1,28 @@
+name: Auto News Crawl & Update
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Run RSS Crawler
+        run: python crawl_rss.py
+      - name: Commit & Push news.json
+        run: |
+          git config --global user.name "AutoNewsBot"
+          git config --global user.email "bot@auto-news.com"
+          git add news.json
+          git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')"
+          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+          git push

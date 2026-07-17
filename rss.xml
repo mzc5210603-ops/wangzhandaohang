@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>TechNews - Technology News Hub</title>
+        <link>https://your-domain.pages.dev</link>
+        <description>Focused on tech, finance, digital and industry news. Latest tech trends, industry analysis, product reviews.</description>
+        <language>en</language>
+        <item>
+            <title>TechNews RSS Feed</title>
+            <link>https://your-domain.pages.dev</link>
+            <description>Subscribe to TechNews for the latest technology news</description>
+        </item>
+    </channel>
+</rss>
