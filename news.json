@@ -9,7 +9,7 @@
     },
     "lang": "zh",
     "summary": "7 月 17 日凌晨，月之暗面发布了 Kimi K3。 数字可以快速过一遍：2.8 万亿参数，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多模态，完整权重 7 月 27 日前放出——将",
-    "cover": "https://picsum.photos/seed/news-6239/800/450",
+    "cover": "https://picsum.photos/seed/news-1868/800/450",
     "pubdate": "2026-07-17 19:14",
     "source": "www.oschina.net",
     "content": "<p>7 月 17 日凌晨，月之暗面发布了 Kimi K3。 数字可以快速过一遍：2.8 万亿参数，MoE 架构，896 个 expert 每次激活 16 个，100 万 token 上下文窗口，原生多模态，完整权重 7 月 27 日前放出——将成为全球首个开源的 3 万亿级别模型。 但数字说完了，故事才刚开始。 一个 90 后创始人，半年融了 60 亿美元 在讲模型之前...</p>"
@@ -24,7 +24,7 @@
     },
     "lang": "zh",
     "summary": "原文链接：https://www.nocobase.com/cn/blog/2.2.0-beta 这是一次围绕 V2 体验的重要升级。这个版本带来了 多工作区、新移动端、新评论区块，同时继续提升 AI 知识库和工作流能力。对正在使用 V2 ",
-    "cover": "https://picsum.photos/seed/news-5118/800/450",
+    "cover": "https://picsum.photos/seed/news-1331/800/450",
     "pubdate": "2026-07-17 18:32",
     "source": "www.oschina.net",
     "content": "<p>原文链接：https://www.nocobase.com/cn/blog/2.2.0-beta 这是一次围绕 V2 体验的重要升级。这个版本带来了 多工作区、新移动端、新评论区块，同时继续提升 AI 知识库和工作流能力。对正在使用 V2 的团队来说，更值得关注的是全新的 /v/ 分支——它会作为面向 V2 的独立前端入口，承接后续的功能演进。 新特性 新增 /v/ ...</p>"
@@ -39,13 +39,43 @@
     },
     "lang": "zh",
     "summary": "GOAI 世界人工智能开源大赛（Global Open-source AI Challenge）正式上线",
-    "cover": "https://picsum.photos/seed/news-775/800/450",
+    "cover": "https://picsum.photos/seed/news-7172/800/450",
     "pubdate": "2026-07-17 18:19",
     "source": "www.oschina.net",
     "content": "<p>GOAI 世界人工智能开源大赛（Global Open-source AI Challenge）正式上线</p>"
   },
   {
     "id": 4,
+    "title": "Here are the Samsung Galaxy Z Flip 8 and Z Fold 8 camera and battery specs, apparently",
+    "category": "digital",
+    "categoryName": {
+      "en": "Digital",
+      "zh": "数码"
+    },
+    "lang": "en",
+    "summary": "Camera upgrades in the Z Flip 8, Fold 8 and Fold 8 Ultra appear to be slim.",
+    "cover": "https://picsum.photos/seed/news-9253/800/450",
+    "pubdate": "2026-07-17 18:11",
+    "source": "www.engadget.com",
+    "content": "<p>Camera upgrades in the Z Flip 8, Fold 8 and Fold 8 Ultra appear to be slim.</p>"
+  },
+  {
+    "id": 5,
+    "title": "FAA lets Boeing sign off on 737 Max, 787 airworthiness certificates again",
+    "category": "finance",
+    "categoryName": {
+      "en": "Finance",
+      "zh": "财经"
+    },
+    "lang": "en",
+    "summary": "The move is a vote of confidence in Boeing from the U.S. government.",
+    "cover": "https://picsum.photos/seed/news-3271/800/450",
+    "pubdate": "2026-07-17 17:55",
+    "source": "www.cnbc.com",
+    "content": "<p>The move is a vote of confidence in Boeing from the U.S. government.</p>"
+  },
+  {
+    "id": 6,
     "title": "【AI 智能运维平台】本周更新：提升大规模数据处理效率",
     "category": "tech",
     "categoryName": {
@@ -54,13 +84,73 @@
     },
     "lang": "zh",
     "summary": "Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :card_index",
-    "cover": "https://picsum.photos/seed/news-8715/800/450",
+    "cover": "https://picsum.photos/seed/news-3131/800/450",
     "pubdate": "2026-07-17 17:24",
     "source": "www.oschina.net",
     "content": "<p>Blueking Lite 是一个 AI First 的轻量版运维产品，具有部署资源要求低、使用成本低、渐进式体验等特点，为运维管理员提供日常运维中的必备工具。 :loudspeaker: 【平台 · 本周更新速递】 :card_index_dividers: CMDB • 优化 CMDB 采集任务调度，降低任务堆积与重复执行风险 • 提升大规模资产同步及自动关联的处理效率...</p>"
   },
   {
-    "id": 5,
+    "id": 7,
+    "title": "The cyclosporiasis outbreak linked to Taco Bell is hitting some restaurant stocks, but don&apos;t ex",
+    "category": "finance",
+    "categoryName": {
+      "en": "Finance",
+      "zh": "财经"
+    },
+    "lang": "en",
+    "summary": "Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, a",
+    "cover": "https://picsum.photos/seed/news-8893/800/450",
+    "pubdate": "2026-07-17 17:17",
+    "source": "www.cnbc.com",
+    "content": "<p>Taco Bell, which the CDC linked to the cyclosporiasis outbreak, will likely recover soon from the health safety scare, according to analysts.</p>"
+  },
+  {
+    "id": 8,
+    "title": "Tesla Created a $225 Balance Bike for Tots, and It&#039;s Already Sold Out",
+    "category": "digital",
+    "categoryName": {
+      "en": "Digital",
+      "zh": "数码"
+    },
+    "lang": "en",
+    "summary": "The bike isn&#039;t motorized and is completely toddler-powered.",
+    "cover": "https://picsum.photos/seed/news-6060/800/450",
+    "pubdate": "2026-07-17 17:11",
+    "source": "www.cnet.com",
+    "content": "<p>The bike isn&#039;t motorized and is completely toddler-powered.</p>"
+  },
+  {
+    "id": 9,
+    "title": "Troubling new details emerge on diabetes ouster controversy",
+    "category": "tech",
+    "categoryName": {
+      "en": "Tech",
+      "zh": "科技"
+    },
+    "lang": "en",
+    "summary": "American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.",
+    "cover": "https://picsum.photos/seed/news-8893/800/450",
+    "pubdate": "2026-07-17 17:08",
+    "source": "feeds.arstechnica.com",
+    "content": "<p>American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.</p>"
+  },
+  {
+    "id": 10,
+    "title": "A bug in AWS has caused some customers' bills to spike from a few cents to billions of dollars",
+    "category": "digital",
+    "categoryName": {
+      "en": "Digital",
+      "zh": "数码"
+    },
+    "lang": "en",
+    "summary": "\"The displayed billing estimates do not reflect actual usage and charges,\" Amazon said.",
+    "cover": "https://picsum.photos/seed/news-7930/800/450",
+    "pubdate": "2026-07-17 17:07",
+    "source": "www.engadget.com",
+    "content": "<p>\"The displayed billing estimates do not reflect actual usage and charges,\" Amazon said.</p>"
+  },
+  {
+    "id": 11,
     "title": "Bethesda details what's next for Fallout and its other franchises amid Xbox cuts",
     "category": "digital",
     "categoryName": {
@@ -69,13 +159,28 @@
     },
     "lang": "en",
     "summary": "Obsidian is working on a new Fallout game, while Fallout 3 and New Vegas remasters are on the way.",
-    "cover": "https://picsum.photos/seed/news-2352/800/450",
+    "cover": "https://picsum.photos/seed/news-6292/800/450",
     "pubdate": "2026-07-17 16:58",
     "source": "www.engadget.com",
     "content": "<p>Obsidian is working on a new Fallout game, while Fallout 3 and New Vegas remasters are on the way.</p>"
   },
   {
-    "id": 6,
+    "id": 12,
+    "title": "Will Russia's answer to the Falcon 9 rocket ever take flight?",
+    "category": "tech",
+    "categoryName": {
+      "en": "Tech",
+      "zh": "科技"
+    },
+    "lang": "en",
+    "summary": "Grasshopper-like tests could begin in 2028.",
+    "cover": "https://picsum.photos/seed/news-1599/800/450",
+    "pubdate": "2026-07-17 16:42",
+    "source": "feeds.arstechnica.com",
+    "content": "<p>Grasshopper-like tests could begin in 2028.</p>"
+  },
+  {
+    "id": 13,
     "title": "iOS 27 Public Beta: It&#039;s... Fine I Guess?",
     "category": "digital",
     "categoryName": {
@@ -84,13 +189,13 @@
     },
     "lang": "en",
     "summary": "Even if you don&#039;t use AI, I found some useful features in the iOS 27 beta. They&#039;re smaller, quality-of-life ch",
-    "cover": "https://picsum.photos/seed/news-9266/800/450",
+    "cover": "https://picsum.photos/seed/news-3701/800/450",
     "pubdate": "2026-07-17 16:26",
     "source": "www.cnet.com",
     "content": "<p>Even if you don&#039;t use AI, I found some useful features in the iOS 27 beta. They&#039;re smaller, quality-of-life changes, but you won&#039;t want to skip them.</p>"
   },
   {
-    "id": 7,
+    "id": 14,
     "title": "Fubo hikes prices by $15 after restoring some NBCU channels lost in November",
     "category": "tech",
     "categoryName": {
@@ -99,13 +204,28 @@
     },
     "lang": "en",
     "summary": "Fubo subscribers still don't have Versant channels. ",
-    "cover": "https://picsum.photos/seed/news-8326/800/450",
+    "cover": "https://picsum.photos/seed/news-826/800/450",
     "pubdate": "2026-07-17 16:24",
     "source": "feeds.arstechnica.com",
     "content": "<p>Fubo subscribers still don't have Versant channels. </p>"
   },
   {
-    "id": 8,
+    "id": 15,
+    "title": "Designing emoji for the way we communicate today",
+    "category": "industry",
+    "categoryName": {
+      "en": "Industry",
+      "zh": "行业资讯"
+    },
+    "lang": "en",
+    "summary": "Comments",
+    "cover": "https://picsum.photos/seed/news-6296/800/450",
+    "pubdate": "2026-07-17 16:24",
+    "source": "news.ycombinator.com",
+    "content": "<p>Comments</p>"
+  },
+  {
+    "id": 16,
     "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement upd",
     "category": "finance",
     "categoryName": {
@@ -114,13 +234,13 @@
     },
     "lang": "en",
     "summary": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of",
-    "cover": "https://picsum.photos/seed/news-8240/800/450",
+    "cover": "https://picsum.photos/seed/news-5980/800/450",
     "pubdate": "2026-07-17 16:18",
     "source": "www.cnbc.com",
     "content": "<p>The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement.</p>"
   },
   {
-    "id": 9,
+    "id": 17,
     "title": "San Francisco orders Apple, Google to remove nudify apps from app stores",
     "category": "tech",
     "categoryName": {
@@ -129,13 +249,13 @@
     },
     "lang": "en",
     "summary": "Official estimates Google and Apple likely made millions in nudify app fees.",
-    "cover": "https://picsum.photos/seed/news-1427/800/450",
+    "cover": "https://picsum.photos/seed/news-396/800/450",
     "pubdate": "2026-07-17 16:10",
     "source": "feeds.arstechnica.com",
     "content": "<p>Official estimates Google and Apple likely made millions in nudify app fees.</p>"
   },
   {
-    "id": 10,
+    "id": 18,
     "title": "Apple and Google ordered by San Francisco attorney to take action against 'nudify' apps",
     "category": "digital",
     "categoryName": {
@@ -144,13 +264,13 @@
     },
     "lang": "en",
     "summary": "Google and Apple were sent cease-and-desist letters regarding 13 apps on their respective stores.",
-    "cover": "https://picsum.photos/seed/news-2688/800/450",
+    "cover": "https://picsum.photos/seed/news-7205/800/450",
     "pubdate": "2026-07-17 16:10",
     "source": "www.engadget.com",
     "content": "<p>Google and Apple were sent cease-and-desist letters regarding 13 apps on their respective stores.</p>"
   },
   {
-    "id": 11,
+    "id": 19,
     "title": "Back-to-School Laptops and Tablet Prices Are Going Up, but There&#039;s a Workaround",
     "category": "digital",
     "categoryName": {
@@ -159,13 +279,13 @@
     },
     "lang": "en",
     "summary": "Certified refurbished tech can help you save on your device, but don&#039;t expect all-time-low price drops.",
-    "cover": "https://picsum.photos/seed/news-5790/800/450",
+    "cover": "https://picsum.photos/seed/news-7140/800/450",
     "pubdate": "2026-07-17 16:00",
     "source": "www.cnet.com",
     "content": "<p>Certified refurbished tech can help you save on your device, but don&#039;t expect all-time-low price drops.</p>"
   },
   {
-    "id": 12,
+    "id": 20,
     "title": "Best AI Video Generators of 2026: Gemini Omni, Adobe Firefly and More Compared",
     "category": "digital",
     "categoryName": {
@@ -174,13 +294,13 @@
     },
     "lang": "en",
     "summary": "AI video generators are not created equal. These are the best ones we&#039;ve tested.",
-    "cover": "https://picsum.photos/seed/news-1137/800/450",
+    "cover": "https://picsum.photos/seed/news-4443/800/450",
     "pubdate": "2026-07-17 16:00",
     "source": "www.cnet.com",
     "content": "<p>AI video generators are not created equal. These are the best ones we&#039;ve tested.</p>"
   },
   {
-    "id": 13,
+    "id": 21,
     "title": "JDG、AL、BLG 均止步八强：《英雄联盟》2026 EWC 淘汰赛 DK 2-1 战胜 BLG 晋级半决赛，T1 2-0 战胜 HLE",
     "category": "tech",
     "categoryName": {
@@ -189,13 +309,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"6419\">IT之家 7 月 17 日消息，在今日举行的 2026 EWC 电竞世俱杯淘汰赛第一轮比赛中，来自 LCK 的 DK 战队以 2-1 的成绩战胜了 MSI 亚军队伍 BLG，晋级半决赛。</p><p",
-    "cover": "https://picsum.photos/seed/news-4613/800/450",
+    "cover": "https://picsum.photos/seed/news-1358/800/450",
     "pubdate": "2026-07-17 15:57",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"6419\">IT之家 7 月 17 日消息，在今日举行的 2026 EWC 电竞世俱杯淘汰赛第一轮比赛中，来自 LCK 的 DK 战队以 2-1 的成绩战胜了 MSI 亚军队伍 BLG，晋级半决赛。</p><p style=\"text-align: center;\" data-vmark=\"a881\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/02f7d726-7f39-4e73-82c5-e58345040dbc.jpg?x-bce-process=image/format,f_auto\" w</p>"
   },
   {
-    "id": 14,
+    "id": 22,
     "title": "Ars is looking for a senior technology reporter, and you might be it!",
     "category": "tech",
     "categoryName": {
@@ -204,13 +324,13 @@
     },
     "lang": "en",
     "summary": "Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!",
-    "cover": "https://picsum.photos/seed/news-1861/800/450",
+    "cover": "https://picsum.photos/seed/news-5528/800/450",
     "pubdate": "2026-07-17 15:52",
     "source": "feeds.arstechnica.com",
     "content": "<p>Desktops, laptops, phones, CPUs, GPUs, NAS—if you know this stuff, come work for us!</p>"
   },
   {
-    "id": 15,
+    "id": 23,
     "title": "OpenAI 首款硬件是一个迷你键盘，用于控制 AI 编程 Agent",
     "category": "tech",
     "categoryName": {
@@ -219,13 +339,13 @@
     },
     "lang": "zh",
     "summary": "OpenAI 的第一款自有品牌硬件不是手机，不是 AI 伴侣设备，而是一个只有手掌大小的键盘。 7 月 15 日，OpenAI 发布了 Codex Micro——一款与加拿大键盘厂商 Work Louder 合作设计的可编程迷你键盘，定价 ",
-    "cover": "https://picsum.photos/seed/news-7297/800/450",
+    "cover": "https://picsum.photos/seed/news-7295/800/450",
     "pubdate": "2026-07-17 15:48",
     "source": "www.oschina.net",
     "content": "<p>OpenAI 的第一款自有品牌硬件不是手机，不是 AI 伴侣设备，而是一个只有手掌大小的键盘。 7 月 15 日，OpenAI 发布了 Codex Micro——一款与加拿大键盘厂商 Work Louder 合作设计的可编程迷你键盘，定价 $230，专为 Codex 用户设计，用来控制 AI 编程 agent。它长得很像 Work Louder 自家的 Creator Micro 2，13 个矮轴机...</p>"
   },
   {
-    "id": 16,
+    "id": 24,
     "title": "微软 2026 款 Surface Laptop 证明：8GB 内存难以满足 Win11 需求，日常使用多次卡顿",
     "category": "tech",
     "categoryName": {
@@ -234,13 +354,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"d152\">IT之家 7 月 17 日消息，据 Neowin 及 The Verge 今日报道，微软自家 2026 款 13 英寸 Surface Laptop 无意中证明了 Windows 11 的最低系统要",
-    "cover": "https://picsum.photos/seed/news-5497/800/450",
+    "cover": "https://picsum.photos/seed/news-444/800/450",
     "pubdate": "2026-07-17 15:47",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"d152\">IT之家 7 月 17 日消息，据 Neowin 及 The Verge 今日报道，微软自家 2026 款 13 英寸 Surface Laptop 无意中证明了 Windows 11 的最低系统要求毫无意义。</p><p data-vmark=\"170d\">这款起售价 949 美元（IT之家注：现汇率约合 6435 元人民币）的入门级产品，搭载高通骁龙 X Plus 八核处理器与 256GB 固态硬盘，而 8GB LPDDR5X 内存才是整机性能最明显的瓶颈所在。</p><p style=\"text-align: center;\" data-vmar</p>"
   },
   {
-    "id": 17,
+    "id": 25,
     "title": "Show HN: Explore the Workspaces of Modern Creators",
     "category": "industry",
     "categoryName": {
@@ -249,13 +369,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-2387/800/450",
+    "cover": "https://picsum.photos/seed/news-7046/800/450",
     "pubdate": "2026-07-17 15:41",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 18,
+    "id": 26,
     "title": "代码写得多，就一定更好吗？",
     "category": "tech",
     "categoryName": {
@@ -264,13 +384,13 @@
     },
     "lang": "zh",
     "summary": "一个开源作者的自白：当 2000 行代码挑战 Netty，当轻量级框架叫板 Spring，我们遭遇的不是技术质疑，而是一种根深蒂固的 &quot;代码量崇拜&quot;。",
-    "cover": "https://picsum.photos/seed/news-4225/800/450",
+    "cover": "https://picsum.photos/seed/news-4908/800/450",
     "pubdate": "2026-07-17 15:36",
     "source": "www.oschina.net",
     "content": "<p>一个开源作者的自白：当 2000 行代码挑战 Netty，当轻量级框架叫板 Spring，我们遭遇的不是技术质疑，而是一种根深蒂固的 &quot;代码量崇拜&quot;。</p>"
   },
   {
-    "id": 19,
+    "id": 27,
     "title": "微软把 Comic Chat 开源了，那个让 Comic Sans 走进千家万户的聊天软件",
     "category": "tech",
     "categoryName": {
@@ -279,13 +399,13 @@
     },
     "lang": "zh",
     "summary": "Hacker News 今天的流量第一名属于一段 30 岁的 C++ 代码。 7 月 16 日，微软宣布将 Microsoft Comic Chat 以 MIT 协议开源。这个 1996 年随 IE3 发布、后来捆绑进 Windows 98",
-    "cover": "https://picsum.photos/seed/news-2291/800/450",
+    "cover": "https://picsum.photos/seed/news-7902/800/450",
     "pubdate": "2026-07-17 15:34",
     "source": "www.oschina.net",
     "content": "<p>Hacker News 今天的流量第一名属于一段 30 岁的 C++ 代码。 7 月 16 日，微软宣布将 Microsoft Comic Chat 以 MIT 协议开源。这个 1996 年随 IE3 发布、后来捆绑进 Windows 98 的 IRC 客户端，把聊天室里的文字对话自动转成漫画分镜——带插画角色、对话气泡、表情、手势和分格布局。 &quot;我当年是在 system32 里乱翻的时候...</p>"
   },
   {
-    "id": 20,
+    "id": 28,
     "title": "中国科学家首获门捷列夫国际基础科学奖，潘建伟量子通信成果获国际认可",
     "category": "tech",
     "categoryName": {
@@ -294,13 +414,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"61fd\">IT之家 7 月 17 日消息，今日，第三届联合国教科文组织 — 俄罗斯门捷列夫国际基础科学奖颁奖典礼在联合国教科文组织巴黎总部举行。</p><p data-vmark=\"c000\">中国科学院院士",
-    "cover": "https://picsum.photos/seed/news-6499/800/450",
+    "cover": "https://picsum.photos/seed/news-7654/800/450",
     "pubdate": "2026-07-17 15:32",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"61fd\">IT之家 7 月 17 日消息，今日，第三届联合国教科文组织 — 俄罗斯门捷列夫国际基础科学奖颁奖典礼在联合国教科文组织巴黎总部举行。</p><p data-vmark=\"c000\">中国科学院院士、中国科学技术大学教授潘建伟成为首位获此殊荣的中国学者。另一位获奖者为美国北卡罗来纳大学查珀尔希尔校区化学系教授谢尔盖 · 舍伊科（Sergei Sheiko），他因在基础聚合物物理学和材料科学领域的杰出贡献而获奖。</p><p data-vmark=\"feae\" style=\"text-align: center;\"><img src=\"https://i</p>"
   },
   {
-    "id": 21,
+    "id": 29,
     "title": "Frame – the first Linux Assembly X server",
     "category": "industry",
     "categoryName": {
@@ -309,13 +429,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-4448/800/450",
+    "cover": "https://picsum.photos/seed/news-3093/800/450",
     "pubdate": "2026-07-17 15:31",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 22,
+    "id": 30,
     "title": "市场监管总局：电梯交付验证强制性国家标准公开征求意见，解决各地自检标准不一等问题",
     "category": "tech",
     "categoryName": {
@@ -324,13 +444,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"a5c7\">IT之家 7 月 17 日消息，据央视新闻报道，记者今天从市场监管总局了解到，《电梯制造与安装安全要求第 3 部分：电梯交付验证》强制性国家标准开始公开征求意见。</p><p data-vmark=",
-    "cover": "https://picsum.photos/seed/news-1663/800/450",
+    "cover": "https://picsum.photos/seed/news-2764/800/450",
     "pubdate": "2026-07-17 15:30",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"a5c7\">IT之家 7 月 17 日消息，据央视新闻报道，记者今天从市场监管总局了解到，《电梯制造与安装安全要求第 3 部分：电梯交付验证》强制性国家标准开始公开征求意见。</p><p data-vmark=\"979c\">报道提到，电梯安装是衔接部件制造和整机投用的关键节点，制造单位交付前自检是把控电梯安全的一个重要核心关口，也是筑牢电梯安全防线的关键环节。</p><p data-vmark=\"b259\">这项国家标准，就是要统一全国电梯交付验证项目要求，<strong>解决各地自检标准不一、项目不全等问题</strong>。进一步强化制造单位对电梯出厂和安装进</p>"
   },
   {
-    "id": 23,
+    "id": 31,
     "title": "Chinese automakers are taking on the UK — and many Brits are embracing it",
     "category": "finance",
     "categoryName": {
@@ -339,13 +459,13 @@
     },
     "lang": "en",
     "summary": "The surge comes as China's auto exports have boomed in recent years as the country's appetite for new models has cooled.",
-    "cover": "https://picsum.photos/seed/news-5504/800/450",
+    "cover": "https://picsum.photos/seed/news-2164/800/450",
     "pubdate": "2026-07-17 15:24",
     "source": "www.cnbc.com",
     "content": "<p>The surge comes as China's auto exports have boomed in recent years as the country's appetite for new models has cooled.</p>"
   },
   {
-    "id": 24,
+    "id": 32,
     "title": "消息称索尼 FX5 电影摄影机有 16 档动态范围，海外售价 5399 欧元",
     "category": "tech",
     "categoryName": {
@@ -354,13 +474,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"8be1\">IT之家 7 月 17 日消息，据 Sony Alpha Rumors 今日爆料，索尼 FX5 电影摄影机的三档基础 ISO 分别是 800、4000 和 12800，拥有 16 档的动态范围。</",
-    "cover": "https://picsum.photos/seed/news-9203/800/450",
+    "cover": "https://picsum.photos/seed/news-9698/800/450",
     "pubdate": "2026-07-17 15:19",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"8be1\">IT之家 7 月 17 日消息，据 Sony Alpha Rumors 今日爆料，索尼 FX5 电影摄影机的三档基础 ISO 分别是 800、4000 和 12800，拥有 16 档的动态范围。</p><p data-vmark=\"70c4\">消息称这台电影摄影机将于<strong> 7 月 22 日发布</strong>，欧洲市场单机身售价 5399 欧元（IT之家注：现汇率约合 41898 元人民币），搭配 XLR 手柄售价 5999 欧元（现汇率约合 46554 元人民币）。</p><p style=\"text-align: center;\" d</p>"
   },
   {
-    "id": 25,
+    "id": 33,
     "title": "面壁智能开源企业数字员工平台 StaffDeck",
     "category": "tech",
     "categoryName": {
@@ -369,13 +489,13 @@
     },
     "lang": "zh",
     "summary": "面壁智能联合东北大学-面壁智能数据智能联合实验室、清华大学 THUNLP 实验室、OpenBMB 与 AI9Stars 开源了数字员工全流程构建与管理平台 StaffDeck。 根据介绍，StaffDeck 不只让 AI 承接重复性沟通与标",
-    "cover": "https://picsum.photos/seed/news-7743/800/450",
+    "cover": "https://picsum.photos/seed/news-1377/800/450",
     "pubdate": "2026-07-17 15:13",
     "source": "www.oschina.net",
     "content": "<p>面壁智能联合东北大学-面壁智能数据智能联合实验室、清华大学 THUNLP 实验室、OpenBMB 与 AI9Stars 开源了数字员工全流程构建与管理平台 StaffDeck。 根据介绍，StaffDeck 不只让 AI 承接重复性沟通与标准化任务，更试图将分散在人员、文档和业务系统中的知识、方法与流程，转化为 可维护、可复用、可持续优化的组织能力...</p>"
   },
   {
-    "id": 26,
+    "id": 34,
     "title": "杭州市民政局准予设立杭州市开源人工智能基金会",
     "category": "tech",
     "categoryName": {
@@ -384,13 +504,13 @@
     },
     "lang": "zh",
     "summary": "杭州市民政局正式签发准予行政许可决定书（杭民社许准字〔2026〕成第J-001号），批准设立杭州市开源人工智能基金会，为非公募基金会。 根据规定，该基金会同时被认定为慈善组织，发给《基金会法人登记证书》（带慈善组织标识）。 杭州市开源人工智",
-    "cover": "https://picsum.photos/seed/news-7197/800/450",
+    "cover": "https://picsum.photos/seed/news-3532/800/450",
     "pubdate": "2026-07-17 15:05",
     "source": "www.oschina.net",
     "content": "<p>杭州市民政局正式签发准予行政许可决定书（杭民社许准字〔2026〕成第J-001号），批准设立杭州市开源人工智能基金会，为非公募基金会。 根据规定，该基金会同时被认定为慈善组织，发给《基金会法人登记证书》（带慈善组织标识）。 杭州市开源人工智能基金会官方介绍如下： 杭州市开源人工智能基金会（以下简称&quot;基金会&quot;）秉...</p>"
   },
   {
-    "id": 27,
+    "id": 35,
     "title": "Bethesda 公布未来路线图：《上古卷轴 6》是当前重点、《辐射 5》定位“长期目标”，《辐射 3》《辐射：新维加斯》重制版确认开发",
     "category": "tech",
     "categoryName": {
@@ -399,13 +519,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"5877\">IT之家 7 月 17 日消息，Bethesda Game Studios 今晚发布了致玩家公开信，披露了工作室未来数年的游戏开发计划，涉及《星空》《辐射》《上古卷轴》等多个系列。</p><p da",
-    "cover": "https://picsum.photos/seed/news-5715/800/450",
+    "cover": "https://picsum.photos/seed/news-2790/800/450",
     "pubdate": "2026-07-17 15:04",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"5877\">IT之家 7 月 17 日消息，Bethesda Game Studios 今晚发布了致玩家公开信，披露了工作室未来数年的游戏开发计划，涉及《星空》《辐射》《上古卷轴》等多个系列。</p><p data-vmark=\"8bb7\">Bethesda 执行制作人 Todd Howard 表示，工作室正在加大投资力度，深化对玩家喜爱世界的拓展，并推动团队间更紧密的协作。</p><p data-vmark=\"b653\">Bethesda 表示，工作室成立 40 年以来，其游戏作品累计吸引了接近 5 亿名玩家。未来计划继续围绕旗下开放世界 RPG 作品进行长期开</p>"
   },
   {
-    "id": 28,
+    "id": 36,
     "title": "史上最大杠杆收购迎转机：沙特 PIF 牵头财团 550 亿美元收购 EA，欧盟反补贴审查预计 7 月底放行",
     "category": "tech",
     "categoryName": {
@@ -414,13 +534,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"f589\">IT之家 7 月 17 日消息，路透社今日报道称，由沙特阿拉伯公共投资基金（PIF）牵头的投资财团收购游戏开发商艺电（EA）的交易，预计将获得欧盟委员会依据《外国补贴条例》（FSR）的批准。</p>",
-    "cover": "https://picsum.photos/seed/news-7398/800/450",
+    "cover": "https://picsum.photos/seed/news-9835/800/450",
     "pubdate": "2026-07-17 15:00",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"f589\">IT之家 7 月 17 日消息，路透社今日报道称，由沙特阿拉伯公共投资基金（PIF）牵头的投资财团收购游戏开发商艺电（EA）的交易，预计将获得欧盟委员会依据《外国补贴条例》（FSR）的批准。</p><p style=\"text-align: center;\" data-vmark=\"1c84\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/ca5e7baa-2190-4716-903d-6f9d7a5c819a.png?x-bce-process=image/format,f_auto\"</p>"
   },
   {
-    "id": 29,
+    "id": 37,
     "title": "Samsung's Freestyle+ projector is now available for $1,200",
     "category": "digital",
     "categoryName": {
@@ -429,13 +549,13 @@
     },
     "lang": "en",
     "summary": "Samsung&#39;s Freestyle+ projector is a tiny unit which can play movies on the most uneven of surfaces.",
-    "cover": "https://picsum.photos/seed/news-6198/800/450",
+    "cover": "https://picsum.photos/seed/news-7123/800/450",
     "pubdate": "2026-07-17 15:00",
     "source": "www.engadget.com",
     "content": "<p>Samsung&#39;s Freestyle+ projector is a tiny unit which can play movies on the most uneven of surfaces.</p>"
   },
   {
-    "id": 30,
+    "id": 38,
     "title": "ASML 拟向全球约 4.5 万名员工发放 2 万欧元股票奖励，2030 年解禁",
     "category": "tech",
     "categoryName": {
@@ -444,13 +564,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"c5b7\">IT之家 7 月 17 日消息，据彭博社报道，受 AI 需求激增推动创纪录的销售额影响，阿斯麦控股公司（ASML Holding NV）与芯片行业的其他公司一道加入了向员工发放分红的行列，ASML ",
-    "cover": "https://picsum.photos/seed/news-5542/800/450",
+    "cover": "https://picsum.photos/seed/news-6074/800/450",
     "pubdate": "2026-07-17 14:59",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"c5b7\">IT之家 7 月 17 日消息，据彭博社报道，受 AI 需求激增推动创纪录的销售额影响，阿斯麦控股公司（ASML Holding NV）与芯片行业的其他公司一道加入了向员工发放分红的行列，ASML 将向全球员工发放<strong> 2 万欧元</strong>（现汇率约合 15.5 万元人民币）的一次性奖金，以股票奖励（share award）形式发放。</p><p data-vmark=\"7387\"><a target=\"_blank\" href=\"https://www.ithome.com/0/976/949.htm\">ASML 2026 年第二</p>"
   },
   {
-    "id": 31,
+    "id": 39,
     "title": "Caviar is selling a ridiculous Lionel Messi-themed Galaxy Z Fold 8 Ultra a week before its official ",
     "category": "digital",
     "categoryName": {
@@ -459,13 +579,13 @@
     },
     "lang": "en",
     "summary": "And if you want one, you better save up, because it costs a cool $13,130.",
-    "cover": "https://picsum.photos/seed/news-647/800/450",
+    "cover": "https://picsum.photos/seed/news-6723/800/450",
     "pubdate": "2026-07-17 14:58",
     "source": "www.engadget.com",
     "content": "<p>And if you want one, you better save up, because it costs a cool $13,130.</p>"
   },
   {
-    "id": 32,
+    "id": 40,
     "title": "F1 Is One of the Loudest Sports on Earth. This Is What Audiologists Recommend to Protect Your Hearin",
     "category": "digital",
     "categoryName": {
@@ -474,13 +594,13 @@
     },
     "lang": "en",
     "summary": "Here&#039;s how McLaren protects its team and what experts want F1 fans to know before race day.",
-    "cover": "https://picsum.photos/seed/news-921/800/450",
+    "cover": "https://picsum.photos/seed/news-8706/800/450",
     "pubdate": "2026-07-17 14:55",
     "source": "www.cnet.com",
     "content": "<p>Here&#039;s how McLaren protects its team and what experts want F1 fans to know before race day.</p>"
   },
   {
-    "id": 33,
+    "id": 41,
     "title": "AI Chatbot Responses Often Mirror Government Censorship, Report Finds",
     "category": "digital",
     "categoryName": {
@@ -489,13 +609,13 @@
     },
     "lang": "en",
     "summary": "When providing information about countries with restricted speech, the AI models behind chatbots and agents often sidest",
-    "cover": "https://picsum.photos/seed/news-144/800/450",
+    "cover": "https://picsum.photos/seed/news-4048/800/450",
     "pubdate": "2026-07-17 14:52",
     "source": "www.cnet.com",
     "content": "<p>When providing information about countries with restricted speech, the AI models behind chatbots and agents often sidestep prompts or offer responses trained on censored materials.</p>"
   },
   {
-    "id": 34,
+    "id": 42,
     "title": "漫威 &amp; 索尼超英电影《蜘蛛侠：崭新之日》发行通知出炉：片长 145 分钟，7 月 29 日上映",
     "category": "tech",
     "categoryName": {
@@ -504,13 +624,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"dfb4\">IT之家 7 月 17 日消息，据灯塔专业版，电影《蜘蛛侠：崭新之日》发行通知已出炉，<strong>片长 145 分钟</strong>。影片将于 7 月 29 日全球领先上映。</p><p da",
-    "cover": "https://picsum.photos/seed/news-8872/800/450",
+    "cover": "https://picsum.photos/seed/news-6655/800/450",
     "pubdate": "2026-07-17 14:45",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"dfb4\">IT之家 7 月 17 日消息，据灯塔专业版，电影《蜘蛛侠：崭新之日》发行通知已出炉，<strong>片长 145 分钟</strong>。影片将于 7 月 29 日全球领先上映。</p><p data-vmark=\"7c12\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/e7a58df7-b8d8-416d-9edb-275c21632bab.png?x-bce-process=image/format,f_auto\" w=\"6</p>"
   },
   {
-    "id": 35,
+    "id": 43,
     "title": "与全球技术演进同频，openKylin 3.0 从 C 迈向 Rust",
     "category": "tech",
     "categoryName": {
@@ -519,13 +639,13 @@
     },
     "lang": "zh",
     "summary": "为什么要改 使用过 Linux 系统的人大概都遇到过——程序跑着跑着突然崩溃，只丢下一行 &quot;Segmentation fault（段错误）&quot;，没有任何具体原因提示。这类崩溃十有八九是内存安全问题：越界访问、悬垂指针、缓冲",
-    "cover": "https://picsum.photos/seed/news-9662/800/450",
+    "cover": "https://picsum.photos/seed/news-7574/800/450",
     "pubdate": "2026-07-17 14:42",
     "source": "www.oschina.net",
     "content": "<p>为什么要改 使用过 Linux 系统的人大概都遇到过——程序跑着跑着突然崩溃，只丢下一行 &quot;Segmentation fault（段错误）&quot;，没有任何具体原因提示。这类崩溃十有八九是内存安全问题：越界访问、悬垂指针、缓冲区溢出，超过 70% 的高危漏洞根因在此。 导致该问题的根因在于 C/C++ 把内存管理交给了开发者。而 Rust 换了个思路...</p>"
   },
   {
-    "id": 36,
+    "id": 44,
     "title": "openKylin 深耕可信计算：X-Kernel 里程碑版本筑牢自主安全根基",
     "category": "tech",
     "categoryName": {
@@ -534,13 +654,13 @@
     },
     "lang": "zh",
     "summary": "X-Kernel v0.1.0-2606 是 openKylin XTeeOS SIG 推出的首个里程碑版本。该版本围绕 Rust 安全可信内核的工程化落地，初步建立了可持续维护、可持续验证、可持续发布的基础内核能力基线。 一、夯实 Rus",
-    "cover": "https://picsum.photos/seed/news-8933/800/450",
+    "cover": "https://picsum.photos/seed/news-4711/800/450",
     "pubdate": "2026-07-17 14:38",
     "source": "www.oschina.net",
     "content": "<p>X-Kernel v0.1.0-2606 是 openKylin XTeeOS SIG 推出的首个里程碑版本。该版本围绕 Rust 安全可信内核的工程化落地，初步建立了可持续维护、可持续验证、可持续发布的基础内核能力基线。 一、夯实 Rust 内核基础能力，支撑真实负载长稳运行 在内核基础能力方面，X-Kernel v0.1.0-2606 已覆盖多架构支持、任务与进程管理、...</p>"
   },
   {
-    "id": 37,
+    "id": 45,
     "title": "消息称字节新一代豆包手机备货数十万台，AI 不再直接操作头部应用",
     "category": "tech",
     "categoryName": {
@@ -549,13 +669,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"9a44\">IT之家 7 月 17 日消息，据晚点 LatePost 消息，新一代豆包手机调整了与阿里、腾讯等各家超级应用的合作方式，<strong>将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用</s",
-    "cover": "https://picsum.photos/seed/news-5587/800/450",
+    "cover": "https://picsum.photos/seed/news-5505/800/450",
     "pubdate": "2026-07-17 14:33",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"9a44\">IT之家 7 月 17 日消息，据晚点 LatePost 消息，新一代豆包手机调整了与阿里、腾讯等各家超级应用的合作方式，<strong>将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用</strong>（所谓 GUI 技术）。</p><p data-vmark=\"46dd\">只有这些应用自行提供 MCP 服务，开放部分数据、允许操控，豆包手机才能接入 MCP。目前，豆包手机助手团队也在与各头部应用厂商谈判，争取对方开放可被 AI 调用的接口或服务能力。</p><p data-vmark=\"48e0\">此外，一位接近豆包手机人士表示，新一代豆包手</p>"
   },
   {
-    "id": 38,
+    "id": 46,
     "title": "Mozilla: The state of open source AI",
     "category": "industry",
     "categoryName": {
@@ -564,13 +684,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-6755/800/450",
+    "cover": "https://picsum.photos/seed/news-1888/800/450",
     "pubdate": "2026-07-17 14:31",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 39,
+    "id": 47,
     "title": "IntelliJ IDEA 2026.2 发布",
     "category": "tech",
     "categoryName": {
@@ -579,43 +699,13 @@
     },
     "lang": "zh",
     "summary": "IntelliJ IDEA 2026.2 版本现已发布，带来了旨在简化用户工作流程并帮助采用 Java 生态系统中最新创新成果的更新。 新增了对 Java 27 和最新 Kotlin 2.4 语言特性的支持。此版本还通过改进的数据库迁移工作",
-    "cover": "https://picsum.photos/seed/news-8902/800/450",
+    "cover": "https://picsum.photos/seed/news-5171/800/450",
     "pubdate": "2026-07-17 14:27",
     "source": "www.oschina.net",
     "content": "<p>IntelliJ IDEA 2026.2 版本现已发布，带来了旨在简化用户工作流程并帮助采用 Java 生态系统中最新创新成果的更新。 新增了对 Java 27 和最新 Kotlin 2.4 语言特性的支持。此版本还通过改进的数据库迁移工作流程和更丰富的 Spring Security 洞察，简化了 Spring 开发流程；同时，新增的 logpoints 和增强的运行时输出到源...</p>"
   },
   {
-    "id": 40,
-    "title": "Claude Code: Anatomy of a Misfeature",
-    "category": "industry",
-    "categoryName": {
-      "en": "Industry",
-      "zh": "行业资讯"
-    },
-    "lang": "en",
-    "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-6727/800/450",
-    "pubdate": "2026-07-17 14:26",
-    "source": "news.ycombinator.com",
-    "content": "<p>Comments</p>"
-  },
-  {
-    "id": 41,
-    "title": "AI Meets Cryptography 2: What AI Found in OpenVM&#x27;s ZkVM",
-    "category": "industry",
-    "categoryName": {
-      "en": "Industry",
-      "zh": "行业资讯"
-    },
-    "lang": "en",
-    "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-2382/800/450",
-    "pubdate": "2026-07-17 14:21",
-    "source": "news.ycombinator.com",
-    "content": "<p>Comments</p>"
-  },
-  {
-    "id": 42,
+    "id": 48,
     "title": "Kimi K3, and what we can still learn from the pelican benchmark",
     "category": "industry",
     "categoryName": {
@@ -624,13 +714,28 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-4082/800/450",
+    "cover": "https://picsum.photos/seed/news-7243/800/450",
     "pubdate": "2026-07-17 14:21",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 43,
+    "id": 49,
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM&#x27;s ZkVM",
+    "category": "industry",
+    "categoryName": {
+      "en": "Industry",
+      "zh": "行业资讯"
+    },
+    "lang": "en",
+    "summary": "Comments",
+    "cover": "https://picsum.photos/seed/news-6419/800/450",
+    "pubdate": "2026-07-17 14:21",
+    "source": "news.ycombinator.com",
+    "content": "<p>Comments</p>"
+  },
+  {
+    "id": 50,
     "title": "25 年账号被黑后遭永封：引爆舆论后微软同意为受害者恢复账号",
     "category": "tech",
     "categoryName": {
@@ -639,13 +744,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"3a55\">IT之家 7 月 17 日消息，当地时间 7 月 14 日，Twitch 游戏主播约书亚 · 卡恩（Joshua Khane）在 X 上发帖怒斥微软行径。</p><p data-vmark=\"6b2",
-    "cover": "https://picsum.photos/seed/news-7086/800/450",
+    "cover": "https://picsum.photos/seed/news-1186/800/450",
     "pubdate": "2026-07-17 14:20",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"3a55\">IT之家 7 月 17 日消息，当地时间 7 月 14 日，Twitch 游戏主播约书亚 · 卡恩（Joshua Khane）在 X 上发帖怒斥微软行径。</p><p data-vmark=\"6b23\">据介绍，其拥有 25 年历史的微软账户遭黑客入侵后，微软不仅未能协助其找回账号，反而将该账户永久封禁。这导致他失去了与账户绑定的所有数字资产，包括数千欧元的游戏、Outlook 电子邮件、25 年来存储在 OneDrive 上的个人数据，以及儿子婴儿时期的照片等无法替代的家庭回忆。</p><p data-vmark=\"4a3e\">卡恩当时还附上了微软发</p>"
   },
   {
-    "id": 44,
+    "id": 51,
     "title": "某厂 2 亿长焦测试方案曝光，预计为 vivo X500 Ultra",
     "category": "tech",
     "categoryName": {
@@ -654,13 +759,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"98d5\">IT之家 7 月 17 日消息，博主 @数码闲聊站 今日曝光某厂 2 亿长焦测试方案，分为激进路线和均衡路线。结合该博主此前的爆料习惯，该机预计为 vivo X500 Ultra。</p><ul c",
-    "cover": "https://picsum.photos/seed/news-1403/800/450",
+    "cover": "https://picsum.photos/seed/news-6554/800/450",
     "pubdate": "2026-07-17 14:16",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"98d5\">IT之家 7 月 17 日消息，博主 @数码闲聊站 今日曝光某厂 2 亿长焦测试方案，分为激进路线和均衡路线。结合该博主此前的爆料习惯，该机预计为 vivo X500 Ultra。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d4f2\">200Mp 1/1.12\"</p></li><li><p data-vmark=\"9726\">200Mp 1/1.3\"</p></li><li><p data-vmark=\"e4f0\">200Mp 1/1.4\"</p></li></ul><p style=</p>"
   },
   {
-    "id": 45,
+    "id": 52,
     "title": "智己焦樵回应部分经销商经营异常：能明确到用户订单的会兜底，经销商的严格准入和管控是重中之重",
     "category": "tech",
     "categoryName": {
@@ -669,13 +774,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"cb8f\">IT之家 7 月 17 日消息，近期云南、珠海等多地智己汽车车主反馈，在门店付款之后，<a target=\"_blank\" href=\"https://www.ithome.com/0/977/49",
-    "cover": "https://picsum.photos/seed/news-7337/800/450",
+    "cover": "https://picsum.photos/seed/news-2256/800/450",
     "pubdate": "2026-07-17 14:15",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"cb8f\">IT之家 7 月 17 日消息，近期云南、珠海等多地智己汽车车主反馈，在门店付款之后，<a target=\"_blank\" href=\"https://www.ithome.com/0/977/493.htm\">门店突然出现经营异常</a>，导致钱款都无法退还。</p><p data-vmark=\"0e1c\">据雷峰网新智驾今日报道，智己汽车品牌与用户高级总监焦樵接受采访时表示，上述两地关店系同一投资人，部分用户被经销商“晚交付返 5 万”承诺套路，实为资金挪用。能确认的用户订单，智己会兜底，但需要时间理清来龙去脉、进行甄别。</p><blockquo</p>"
   },
   {
-    "id": 46,
+    "id": 53,
     "title": "DeepSeek 估值超 3500 亿元",
     "category": "tech",
     "categoryName": {
@@ -684,13 +789,13 @@
     },
     "lang": "zh",
     "summary": "开润股份（300577.SZ）7月16日晚间发布的一则关联投资进展公告，意外揭示了国内头部大模型企业杭州深度求索人工智能基础技术研究有限公司（DeepSeek，又称“标的公司”）的最新市场估值。 按公告披露的出资比例测算，DeepSeek本",
-    "cover": "https://picsum.photos/seed/news-1370/800/450",
+    "cover": "https://picsum.photos/seed/news-3210/800/450",
     "pubdate": "2026-07-17 14:06",
     "source": "www.oschina.net",
     "content": "<p>开润股份（300577.SZ）7月16日晚间发布的一则关联投资进展公告，意外揭示了国内头部大模型企业杭州深度求索人工智能基础技术研究有限公司（DeepSeek，又称“标的公司”）的最新市场估值。 按公告披露的出资比例测算，DeepSeek本轮融资完成后的估值已攀升至约3508.77亿元，成为继IPO传闻之后，市场关注这家“国产大模型一...</p>"
   },
   {
-    "id": 47,
+    "id": 54,
     "title": "GDDR7 显存太贵：RTX 50 SUPER 被曝已交付 AIB，但英伟达要求暂缓发售",
     "category": "tech",
     "categoryName": {
@@ -699,13 +804,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"e24f\">IT之家 7 月 17 日消息，据 VideoCardz 今日报道，英伟达已向至少一家 AIB 板卡合作伙伴交付了 GeForce RTX 50 SUPER 系列 GPU，但却又通知对方暂缓发售。<",
-    "cover": "https://picsum.photos/seed/news-1002/800/450",
+    "cover": "https://picsum.photos/seed/news-180/800/450",
     "pubdate": "2026-07-17 14:06",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"e24f\">IT之家 7 月 17 日消息，据 VideoCardz 今日报道，英伟达已向至少一家 AIB 板卡合作伙伴交付了 GeForce RTX 50 SUPER 系列 GPU，但却又通知对方暂缓发售。</p><p data-vmark=\"10eb\">消息人士确认 RTX 50 SUPER 显卡已物理交付到合作伙伴手中，说明产品的开发工作已基本完成。不过，英伟达迄今未向合作伙伴提供新的发布时间表。据称，此次暂缓发售的直接原因是 GDDR7 显存颗粒太贵。</p><p data-vmark=\"232a\">目前，单颗 3GB GDDR7 芯片的采购成本在 60 </p>"
   },
   {
-    "id": 48,
+    "id": 55,
     "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
     "category": "industry",
     "categoryName": {
@@ -714,13 +819,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-7737/800/450",
+    "cover": "https://picsum.photos/seed/news-180/800/450",
     "pubdate": "2026-07-17 14:06",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 49,
+    "id": 56,
     "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
     "category": "industry",
     "categoryName": {
@@ -729,13 +834,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-101/800/450",
+    "cover": "https://picsum.photos/seed/news-1153/800/450",
     "pubdate": "2026-07-17 14:05",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 50,
+    "id": 57,
     "title": "国家超算互联网招募科学智能体开发者，可享受全国首个十万卡 AI 超集群算力",
     "category": "tech",
     "categoryName": {
@@ -744,13 +849,13 @@
     },
     "lang": "zh",
     "summary": "<p data-vmark=\"106b\">IT之家 7 月 17 日消息，7 月 17 日，在 2026 世界人工智能大会（WAIC）上，<span>国家超算互联网</span>发布了科学计算智能体生态共创与开发者招募合作计划（以下简称“智",
-    "cover": "https://picsum.photos/seed/news-1725/800/450",
+    "cover": "https://picsum.photos/seed/news-7106/800/450",
     "pubdate": "2026-07-17 14:03",
     "source": "www.ithome.com",
     "content": "<p><p data-vmark=\"106b\">IT之家 7 月 17 日消息，7 月 17 日，在 2026 世界人工智能大会（WAIC）上，<span>国家超算互联网</span>发布了科学计算智能体生态共创与开发者招募合作计划（以下简称“智能体共创计划”）。</p><p data-vmark=\"68a0\"><strong>该计划为期半年</strong>，通过面向高校科研院所、个人开发者及企业研发团队招募智能体、科研垂类模型、<span>MCP 工具</span>、Skill 等成果或合作意向，构建以国产超智融合算力为底座的开放协同科学智能生态体系。</p><p data-vmark=\"205</p>"
   },
   {
-    "id": 51,
+    "id": 58,
     "title": "Engadget Podcast: Is Siri AI actually useful in iOS 27 and macOS Golden Gate?",
     "category": "digital",
     "categoryName": {
@@ -759,13 +864,13 @@
     },
     "lang": "en",
     "summary": "Also, we try to make sense of OpenAI&#39;s rumored AI smart speaker.",
-    "cover": "https://picsum.photos/seed/news-7817/800/450",
+    "cover": "https://picsum.photos/seed/news-4410/800/450",
     "pubdate": "2026-07-17 14:00",
     "source": "www.engadget.com",
     "content": "<p>Also, we try to make sense of OpenAI&#39;s rumored AI smart speaker.</p>"
   },
   {
-    "id": 52,
+    "id": 59,
     "title": "Three ways people respond to a problem (other than solving it)",
     "category": "industry",
     "categoryName": {
@@ -774,13 +879,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-6238/800/450",
+    "cover": "https://picsum.photos/seed/news-1834/800/450",
     "pubdate": "2026-07-17 14:00",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 53,
+    "id": 60,
     "title": "A Road to Lisp: Which Lisp",
     "category": "industry",
     "categoryName": {
@@ -789,13 +894,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-1408/800/450",
+    "cover": "https://picsum.photos/seed/news-8839/800/450",
     "pubdate": "2026-07-17 13:56",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 54,
+    "id": 61,
     "title": "God of War show recasts Kratos after Ryan Hurst sustains an injury on set",
     "category": "digital",
     "categoryName": {
@@ -804,13 +909,13 @@
     },
     "lang": "en",
     "summary": "The Prime Video series will reshoot episodes with a new lead actor. ",
-    "cover": "https://picsum.photos/seed/news-365/800/450",
+    "cover": "https://picsum.photos/seed/news-7419/800/450",
     "pubdate": "2026-07-17 13:40",
     "source": "www.engadget.com",
     "content": "<p>The Prime Video series will reshoot episodes with a new lead actor. </p>"
   },
   {
-    "id": 55,
+    "id": 62,
     "title": "More Bounce to the Ounce",
     "category": "industry",
     "categoryName": {
@@ -819,13 +924,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-9519/800/450",
+    "cover": "https://picsum.photos/seed/news-8626/800/450",
     "pubdate": "2026-07-17 13:32",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 56,
+    "id": 63,
     "title": "Most smart appliances collect data: Here's how to find out what yours tracks",
     "category": "digital",
     "categoryName": {
@@ -834,28 +939,13 @@
     },
     "lang": "en",
     "summary": "There&#39;s truth to the idea that our devices are spying on us. Smart fridges, washing machines and dishwashers are no ",
-    "cover": "https://picsum.photos/seed/news-1469/800/450",
+    "cover": "https://picsum.photos/seed/news-3462/800/450",
     "pubdate": "2026-07-17 13:30",
     "source": "www.engadget.com",
     "content": "<p>There&#39;s truth to the idea that our devices are spying on us. Smart fridges, washing machines and dishwashers are no exception.</p>"
   },
   {
-    "id": 57,
-    "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
-    "category": "industry",
-    "categoryName": {
-      "en": "Industry",
-      "zh": "行业资讯"
-    },
-    "lang": "en",
-    "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-5285/800/450",
-    "pubdate": "2026-07-17 13:22",
-    "source": "news.ycombinator.com",
-    "content": "<p>Comments</p>"
-  },
-  {
-    "id": 58,
+    "id": 64,
     "title": "Inside the Chinese fraud rings stealing billions from banks and retailers",
     "category": "finance",
     "categoryName": {
@@ -864,13 +954,13 @@
     },
     "lang": "en",
     "summary": "Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers",
-    "cover": "https://picsum.photos/seed/news-8851/800/450",
+    "cover": "https://picsum.photos/seed/news-2449/800/450",
     "pubdate": "2026-07-17 13:12",
     "source": "www.cnbc.com",
     "content": "<p>Chinese organized crime groups are making as much as $1 billion annually in tap-to-pay fraud schemes targeting retailers and banks.</p>"
   },
   {
-    "id": 59,
+    "id": 65,
     "title": "EU defangs a key pillar of its climate policy to allow more pollution",
     "category": "digital",
     "categoryName": {
@@ -879,13 +969,13 @@
     },
     "lang": "en",
     "summary": "Europe&#39;s latest updates to its climate policy aren&#39;t great news for the planet.",
-    "cover": "https://picsum.photos/seed/news-6187/800/450",
+    "cover": "https://picsum.photos/seed/news-2974/800/450",
     "pubdate": "2026-07-17 13:01",
     "source": "www.engadget.com",
     "content": "<p>Europe&#39;s latest updates to its climate policy aren&#39;t great news for the planet.</p>"
   },
   {
-    "id": 60,
+    "id": 66,
     "title": "Xreal XBX a01+ review: Astoundingly bright, lightweight AR glasses for $299",
     "category": "digital",
     "categoryName": {
@@ -894,13 +984,13 @@
     },
     "lang": "en",
     "summary": "Xreal&#39;s XBX a01+ is the best pair of budget AR glasses we&#39;ve seen yet.",
-    "cover": "https://picsum.photos/seed/news-4406/800/450",
+    "cover": "https://picsum.photos/seed/news-8891/800/450",
     "pubdate": "2026-07-17 12:30",
     "source": "www.engadget.com",
     "content": "<p>Xreal&#39;s XBX a01+ is the best pair of budget AR glasses we&#39;ve seen yet.</p>"
   },
   {
-    "id": 61,
+    "id": 67,
     "title": "How big is the great wealth transfer? It could be over $100 trillion or $36 trillion",
     "category": "finance",
     "categoryName": {
@@ -909,13 +999,28 @@
     },
     "lang": "en",
     "summary": "Two studies have raised new questions about the size and impact of the coming great wealth transfer.",
-    "cover": "https://picsum.photos/seed/news-5807/800/450",
+    "cover": "https://picsum.photos/seed/news-5831/800/450",
     "pubdate": "2026-07-17 12:06",
     "source": "www.cnbc.com",
     "content": "<p>Two studies have raised new questions about the size and impact of the coming great wealth transfer.</p>"
   },
   {
-    "id": 62,
+    "id": 68,
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "category": "industry",
+    "categoryName": {
+      "en": "Industry",
+      "zh": "行业资讯"
+    },
+    "lang": "en",
+    "summary": "Comments",
+    "cover": "https://picsum.photos/seed/news-4812/800/450",
+    "pubdate": "2026-07-17 12:02",
+    "source": "news.ycombinator.com",
+    "content": "<p>Comments</p>"
+  },
+  {
+    "id": 69,
     "title": "Apple vs. Open AI Explained: The Battle for AI Gadgets Begins With a Juicy Lawsuit",
     "category": "digital",
     "categoryName": {
@@ -924,13 +1029,13 @@
     },
     "lang": "en",
     "summary": "Ah, so that&#039;s why we didn&#039;t hear about ChatGPT at WWDC this year.",
-    "cover": "https://picsum.photos/seed/news-6268/800/450",
+    "cover": "https://picsum.photos/seed/news-8306/800/450",
     "pubdate": "2026-07-17 12:00",
     "source": "www.cnet.com",
     "content": "<p>Ah, so that&#039;s why we didn&#039;t hear about ChatGPT at WWDC this year.</p>"
   },
   {
-    "id": 63,
+    "id": 70,
     "title": "Siri AI vs. Old Siri on Apple Watch: It Wasn&#039;t Even Close",
     "category": "digital",
     "categoryName": {
@@ -939,13 +1044,13 @@
     },
     "lang": "en",
     "summary": "The WatchOS 27 public beta is here, and Apple&#039;s revamped assistant finally does what Siri should have been doing al",
-    "cover": "https://picsum.photos/seed/news-9384/800/450",
+    "cover": "https://picsum.photos/seed/news-9357/800/450",
     "pubdate": "2026-07-17 12:00",
     "source": "www.cnet.com",
     "content": "<p>The WatchOS 27 public beta is here, and Apple&#039;s revamped assistant finally does what Siri should have been doing all along.</p>"
   },
   {
-    "id": 64,
+    "id": 71,
     "title": "TimescaleDB 2.28.3 发布，基于 PostgreSQL 的时序数据库",
     "category": "tech",
     "categoryName": {
@@ -954,13 +1059,13 @@
     },
     "lang": "zh",
     "summary": "TimescaleDB 2.28.3 现已发布，此版本较 2.28.2 版本进行了性能改进和错误修复。官方建议用户尽快升级。 错误修复 #10082 在列式查询执行管道中评估返回NULL的函数时出现错误结果 #10178 修复排序键表达式中",
-    "cover": "https://picsum.photos/seed/news-2833/800/450",
+    "cover": "https://picsum.photos/seed/news-6834/800/450",
     "pubdate": "2026-07-17 11:39",
     "source": "www.oschina.net",
     "content": "<p>TimescaleDB 2.28.3 现已发布，此版本较 2.28.2 版本进行了性能改进和错误修复。官方建议用户尽快升级。 错误修复 #10082 在列式查询执行管道中评估返回NULL的函数时出现错误结果 #10178 修复排序键表达式中包含负常量时排序转换使用不当的问题 #10179 允许在启用列存储的超表上启用和禁用触发器 #10182 修复列存储排序下...</p>"
   },
   {
-    "id": 65,
+    "id": 72,
     "title": "The report oil companies are worried about: Climate attribution science",
     "category": "tech",
     "categoryName": {
@@ -969,13 +1074,13 @@
     },
     "lang": "en",
     "summary": "New report says our ability to tie weather damages to climate change is improving.",
-    "cover": "https://picsum.photos/seed/news-2451/800/450",
+    "cover": "https://picsum.photos/seed/news-9591/800/450",
     "pubdate": "2026-07-17 11:30",
     "source": "feeds.arstechnica.com",
     "content": "<p>New report says our ability to tie weather damages to climate change is improving.</p>"
   },
   {
-    "id": 66,
+    "id": 73,
     "title": "Suno 源码遭泄露，被曝大规模抓取音乐数据训练 AI 模型",
     "category": "tech",
     "categoryName": {
@@ -984,13 +1089,13 @@
     },
     "lang": "zh",
     "summary": "生成式 AI 音乐平台 Suno 遭遇重大安全事件，内部源代码及数据采集信息被泄露，曝光了其用于训练AI音乐模型的大规模数据抓取行为。泄露文件显示，Suno曾通过自动化程序从 YouTube Music、Deezer、Genius 等平台获",
-    "cover": "https://picsum.photos/seed/news-2374/800/450",
+    "cover": "https://picsum.photos/seed/news-1832/800/450",
     "pubdate": "2026-07-17 11:30",
     "source": "www.oschina.net",
     "content": "<p>生成式 AI 音乐平台 Suno 遭遇重大安全事件，内部源代码及数据采集信息被泄露，曝光了其用于训练AI音乐模型的大规模数据抓取行为。泄露文件显示，Suno曾通过自动化程序从 YouTube Music、Deezer、Genius 等平台获取大量音乐、歌词及音频素材，用于模型训练。 据报道，此次事件发生于2025年末，一名黑客“ellie.191”通过...</p>"
   },
   {
-    "id": 67,
+    "id": 74,
     "title": "Tesla's selling a $225 balance bike for toddlers",
     "category": "digital",
     "categoryName": {
@@ -999,13 +1104,13 @@
     },
     "lang": "en",
     "summary": "Tesla&#39;s Autopilot may fail to recognize children at times, but the company certainly recognizes their potential as f",
-    "cover": "https://picsum.photos/seed/news-4668/800/450",
+    "cover": "https://picsum.photos/seed/news-7225/800/450",
     "pubdate": "2026-07-17 11:22",
     "source": "www.engadget.com",
     "content": "<p>Tesla&#39;s Autopilot may fail to recognize children at times, but the company certainly recognizes their potential as future buyers.</p>"
   },
   {
-    "id": 68,
+    "id": 75,
     "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
     "category": "tech",
     "categoryName": {
@@ -1014,13 +1119,13 @@
     },
     "lang": "en",
     "summary": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
-    "cover": "https://picsum.photos/seed/news-9882/800/450",
+    "cover": "https://picsum.photos/seed/news-8105/800/450",
     "pubdate": "2026-07-17 11:15",
     "source": "feeds.arstechnica.com",
     "content": "<p>FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.</p>"
   },
   {
-    "id": 69,
+    "id": 76,
     "title": "2026 Lucid Gravity Touring review: A strong act 2",
     "category": "tech",
     "categoryName": {
@@ -1029,13 +1134,13 @@
     },
     "lang": "en",
     "summary": "Quick, comfortable, roomy, and agile for a large electric SUV.",
-    "cover": "https://picsum.photos/seed/news-1024/800/450",
+    "cover": "https://picsum.photos/seed/news-9705/800/450",
     "pubdate": "2026-07-17 11:00",
     "source": "feeds.arstechnica.com",
     "content": "<p>Quick, comfortable, roomy, and agile for a large electric SUV.</p>"
   },
   {
-    "id": 70,
+    "id": 77,
     "title": "Rocket Report: India's Vikram-1 nears debut flight; AST to become rocket company?",
     "category": "tech",
     "categoryName": {
@@ -1044,13 +1149,13 @@
     },
     "lang": "en",
     "summary": "\"We have done everything that could be done to test Vikram-1 on ground.\"",
-    "cover": "https://picsum.photos/seed/news-6512/800/450",
+    "cover": "https://picsum.photos/seed/news-5750/800/450",
     "pubdate": "2026-07-17 11:00",
     "source": "feeds.arstechnica.com",
     "content": "<p>\"We have done everything that could be done to test Vikram-1 on ground.\"</p>"
   },
   {
-    "id": 71,
+    "id": 78,
     "title": "Signal is testing the ability to add an Android phone or tablet as a secondary device",
     "category": "digital",
     "categoryName": {
@@ -1059,13 +1164,13 @@
     },
     "lang": "en",
     "summary": "Signal's latest beta comes with a feature that will make it easier to use the app on multiple devices.",
-    "cover": "https://picsum.photos/seed/news-876/800/450",
+    "cover": "https://picsum.photos/seed/news-252/800/450",
     "pubdate": "2026-07-17 10:39",
     "source": "www.engadget.com",
     "content": "<p>Signal's latest beta comes with a feature that will make it easier to use the app on multiple devices.</p>"
   },
   {
-    "id": 72,
+    "id": 79,
     "title": "Bose Lifestyle Ultra Speaker Review: A Pair Is the Way to Go",
     "category": "digital",
     "categoryName": {
@@ -1074,13 +1179,13 @@
     },
     "lang": "en",
     "summary": "A direct competitor to Sonos&#039; Era 100 speaker, the attractively designed Lifestyle Ultra has excellent sound for it",
-    "cover": "https://picsum.photos/seed/news-8743/800/450",
+    "cover": "https://picsum.photos/seed/news-6586/800/450",
     "pubdate": "2026-07-17 10:00",
     "source": "www.cnet.com",
     "content": "<p>A direct competitor to Sonos&#039; Era 100 speaker, the attractively designed Lifestyle Ultra has excellent sound for its size and built-in Google Cast support -- but you&#039;ll probably want two.</p>"
   },
   {
-    "id": 73,
+    "id": 80,
     "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
     "category": "industry",
     "categoryName": {
@@ -1089,13 +1194,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-7631/800/450",
+    "cover": "https://picsum.photos/seed/news-8382/800/450",
     "pubdate": "2026-07-17 09:42",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 74,
+    "id": 81,
     "title": "2 Very Good Reasons to Use Filtered Water for Brewing Coffee, According to an Expert",
     "category": "digital",
     "categoryName": {
@@ -1104,13 +1209,13 @@
     },
     "lang": "en",
     "summary": "Swapping in filtered water when brewing hot beverages improves the taste -- but that&#039;s only half of the story.",
-    "cover": "https://picsum.photos/seed/news-1746/800/450",
+    "cover": "https://picsum.photos/seed/news-3308/800/450",
     "pubdate": "2026-07-17 09:00",
     "source": "www.cnet.com",
     "content": "<p>Swapping in filtered water when brewing hot beverages improves the taste -- but that&#039;s only half of the story.</p>"
   },
   {
-    "id": 75,
+    "id": 82,
     "title": "Verizon Fios boosts its fastest plan to 5Gbps",
     "category": "digital",
     "categoryName": {
@@ -1119,13 +1224,13 @@
     },
     "lang": "en",
     "summary": "Verizon Fios just introduced a new 5Gbps home plan that&#39;s more than twice as fast as its previous flagship 2Gbps pla",
-    "cover": "https://picsum.photos/seed/news-7858/800/450",
+    "cover": "https://picsum.photos/seed/news-9156/800/450",
     "pubdate": "2026-07-17 08:50",
     "source": "www.engadget.com",
     "content": "<p>Verizon Fios just introduced a new 5Gbps home plan that&#39;s more than twice as fast as its previous flagship 2Gbps plan.</p>"
   },
   {
-    "id": 76,
+    "id": 83,
     "title": "AT&amp;T&#039;s Unlimited Phone Plans Changed in 2026. Here&#039;s What You Get for Your Money",
     "category": "digital",
     "categoryName": {
@@ -1134,13 +1239,13 @@
     },
     "lang": "en",
     "summary": "If you&#039;re on old AT&T plans -- or shopping around -- now&#039;s the time to see if you can save money or switch fea",
-    "cover": "https://picsum.photos/seed/news-6731/800/450",
+    "cover": "https://picsum.photos/seed/news-8288/800/450",
     "pubdate": "2026-07-17 08:38",
     "source": "www.cnet.com",
     "content": "<p>If you&#039;re on old AT&T plans -- or shopping around -- now&#039;s the time to see if you can save money or switch features with the new lineup.</p>"
   },
   {
-    "id": 77,
+    "id": 84,
     "title": "Coca-Cola's dairy company fairlife hit with a ransomware attack",
     "category": "digital",
     "categoryName": {
@@ -1149,13 +1254,13 @@
     },
     "lang": "en",
     "summary": "Coca-Cola halts the US operations of its dairy company fairlife due to a ransomware attack.",
-    "cover": "https://picsum.photos/seed/news-6340/800/450",
+    "cover": "https://picsum.photos/seed/news-4318/800/450",
     "pubdate": "2026-07-17 07:25",
     "source": "www.engadget.com",
     "content": "<p>Coca-Cola halts the US operations of its dairy company fairlife due to a ransomware attack.</p>"
   },
   {
-    "id": 78,
+    "id": 85,
     "title": "EEG shows brain can simultaneous encode two speech streams",
     "category": "industry",
     "categoryName": {
@@ -1164,28 +1269,13 @@
     },
     "lang": "en",
     "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-5124/800/450",
+    "cover": "https://picsum.photos/seed/news-7802/800/450",
     "pubdate": "2026-07-17 05:51",
     "source": "news.ycombinator.com",
     "content": "<p>Comments</p>"
   },
   {
-    "id": 79,
-    "title": "Pebble Mega Update – July 2026",
-    "category": "industry",
-    "categoryName": {
-      "en": "Industry",
-      "zh": "行业资讯"
-    },
-    "lang": "en",
-    "summary": "Comments",
-    "cover": "https://picsum.photos/seed/news-7809/800/450",
-    "pubdate": "2026-07-17 03:53",
-    "source": "news.ycombinator.com",
-    "content": "<p>Comments</p>"
-  },
-  {
-    "id": 80,
+    "id": 86,
     "title": "A Diarrhea-Causing Parasite Is Spreading. Should You Stop Eating Salad?",
     "category": "digital",
     "categoryName": {
@@ -1194,13 +1284,13 @@
     },
     "lang": "en",
     "summary": "Salad greens are the suspected source of the growing cyclospora outbreak, with officials warning people to avoid eating ",
-    "cover": "https://picsum.photos/seed/news-4534/800/450",
+    "cover": "https://picsum.photos/seed/news-6668/800/450",
     "pubdate": "2026-07-17 03:46",
     "source": "www.cnet.com",
     "content": "<p>Salad greens are the suspected source of the growing cyclospora outbreak, with officials warning people to avoid eating iceberg lettuce at Taco Bell locations in five states.</p>"
   },
   {
-    "id": 81,
+    "id": 87,
     "title": "You Can Now Star in Your Own AI Videos Using Google Vids",
     "category": "digital",
     "categoryName": {
@@ -1209,13 +1299,13 @@
     },
     "lang": "en",
     "summary": "Google&#039;s AI-powered editing tool and its new personal avatars feature let you cast yourself in videos without ever ",
-    "cover": "https://picsum.photos/seed/news-1349/800/450",
+    "cover": "https://picsum.photos/seed/news-2782/800/450",
     "pubdate": "2026-07-17 00:55",
     "source": "www.cnet.com",
     "content": "<p>Google&#039;s AI-powered editing tool and its new personal avatars feature let you cast yourself in videos without ever needing a camera.</p>"
   },
   {
-    "id": 82,
+    "id": 88,
     "title": "SpaceX scrubs Starship launch after some of its engines didn't start",
     "category": "tech",
     "categoryName": {
@@ -1224,13 +1314,13 @@
     },
     "lang": "en",
     "summary": "\"Now offloading propellant. Next launch attempt hopefully in a few days.\"",
-    "cover": "https://picsum.photos/seed/news-2384/800/450",
+    "cover": "https://picsum.photos/seed/news-5586/800/450",
     "pubdate": "2026-07-17 00:02",
     "source": "feeds.arstechnica.com",
     "content": "<p>\"Now offloading propellant. Next launch attempt hopefully in a few days.\"</p>"
   },
   {
-    "id": 83,
+    "id": 89,
     "title": "When Flock Comes to Your Town: I Asked Experts What to Do About These AI Cameras",
     "category": "digital",
     "categoryName": {
@@ -1239,13 +1329,13 @@
     },
     "lang": "en",
     "summary": "Flock is setting up surveillance cams and drones in cities nationwide. Citizens are fighting back. Here&#039;s everythin",
-    "cover": "https://picsum.photos/seed/news-3012/800/450",
+    "cover": "https://picsum.photos/seed/news-3739/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.cnet.com",
     "content": "<p>Flock is setting up surveillance cams and drones in cities nationwide. Citizens are fighting back. Here&#039;s everything you should know.</p>"
   },
   {
-    "id": 84,
+    "id": 90,
     "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
     "category": "industry",
     "categoryName": {
@@ -1254,13 +1344,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  大公司：\n  成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验\n  36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I",
-    "cover": "https://picsum.photos/seed/news-4019/800/450",
+    "cover": "https://picsum.photos/seed/news-4659/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  大公司：\n  成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验\n  36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。\n  苏宁易购携手人工智能合作伙伴，布局家用服务机器人\n  36氪获悉，近日，苏宁易购旗下碧英科技入围工信部人工智能揭榜挂帅项目，将联合产业生态合作伙伴研发智能家庭陪护机器人。该项目面向老龄化背景下的居家照护需求，结合具身智能技术，</p>"
   },
   {
-    "id": 85,
+    "id": 91,
     "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
     "category": "industry",
     "categoryName": {
@@ -1269,13 +1359,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  \n  7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企",
-    "cover": "https://picsum.photos/seed/news-8960/800/450",
+    "cover": "https://picsum.photos/seed/news-8871/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  \n  7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。\n  本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只</p>"
   },
   {
-    "id": 86,
+    "id": 92,
     "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
     "category": "industry",
     "categoryName": {
@@ -1284,13 +1374,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  \n   \n  人工智能正在进入一个新的产业周期。\n  过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界",
-    "cover": "https://picsum.photos/seed/news-1538/800/450",
+    "cover": "https://picsum.photos/seed/news-1503/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  \n   \n  人工智能正在进入一个新的产业周期。\n  过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。\n  市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到322起，同比增长137%。\n  但硬币的另一面同样刺眼。智源研究院在《2026十大A</p>"
   },
   {
-    "id": 87,
+    "id": 93,
     "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
     "category": "industry",
     "categoryName": {
@@ -1299,13 +1389,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。\n  7月16日",
-    "cover": "https://picsum.photos/seed/news-4526/800/450",
+    "cover": "https://picsum.photos/seed/news-7950/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。\n  7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。\n  据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试平台，可同步完成多台设备性能检测，</p>"
   },
   {
-    "id": 88,
+    "id": 94,
     "title": "我们有多久，没长久地喜欢过一个东西了？",
     "category": "industry",
     "categoryName": {
@@ -1314,13 +1404,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  我们有多久没有长久地喜欢过一个东西了？\n  在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。\n  但",
-    "cover": "https://picsum.photos/seed/news-4627/800/450",
+    "cover": "https://picsum.photos/seed/news-5555/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  我们有多久没有长久地喜欢过一个东西了？\n  在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。\n  但在这个热闹又健忘的环境里，却存在着反常的例外——一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。  \n  为什么不同年龄、不同背景的人，都愿意和她建立情感链接？为什么每个人眼里的她，好像都不太一样，却又都觉得她始终陪伴着自己？\n  带着这些疑问，我们一起重新回看MOLLY这个潮流手办的20年。\n  不被定义的“不讨好”\n  北京798的</p>"
   },
   {
-    "id": 89,
+    "id": 95,
     "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
     "category": "industry",
     "categoryName": {
@@ -1329,13 +1419,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  [中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共",
-    "cover": "https://picsum.photos/seed/news-5530/800/450",
+    "cover": "https://picsum.photos/seed/news-8653/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  [中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（<20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已经从5G-A全城点亮迈向全域大上行的发展新阶段。\n  \n  “5G Capital”路上见媒体路测\n  在现场路测中，中国联通北京市分公司通过3.5G+2.1G协同组网支撑了大上行网络指标测评和</p>"
   },
   {
-    "id": 90,
+    "id": 96,
     "title": "震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发",
     "category": "industry",
     "categoryName": {
@@ -1344,13 +1434,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。\n  本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车",
-    "cover": "https://picsum.photos/seed/news-4433/800/450",
+    "cover": "https://picsum.photos/seed/news-5233/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。\n  本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。\n  震业新材告诉36氪：“在ADI行业，1200MPa抗拉强度、4%延伸率是行业通用性能标准。延伸率达到5%~6%以上，才算真正意义的高韧性结构材料，这也是行业关键技术分水岭，高强韧性可满足齿轮、底盘、重载传动等核心安全件的抗冲击、抗疲劳、不断裂要求。”\n  而行业主流厂商的技术水平，普遍停留在QTD 900-8（</p>"
   },
   {
-    "id": 91,
+    "id": 97,
     "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
     "category": "industry",
     "categoryName": {
@@ -1359,13 +1449,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力",
-    "cover": "https://picsum.photos/seed/news-3068/800/450",
+    "cover": "https://picsum.photos/seed/news-4962/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。\n  模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。\n  随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真实复杂人物场景，机器人对环境的全面泛化感知能力正成为制约落地的重要瓶颈。相比视觉能够获取环境</p>"
   },
   {
-    "id": 92,
+    "id": 98,
     "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
     "category": "industry",
     "categoryName": {
@@ -1374,13 +1464,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际",
-    "cover": "https://picsum.photos/seed/news-5834/800/450",
+    "cover": "https://picsum.photos/seed/news-753/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  作者 | 乔钰杰\n  编辑 | 袁斯来\n  硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。\n  此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。\n  日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。\n  日冕创始团</p>"
   },
   {
-    "id": 93,
+    "id": 99,
     "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
     "category": "industry",
     "categoryName": {
@@ -1389,13 +1479,13 @@
     },
     "lang": "zh",
     "summary": "\n \n \n  \n  图源/企业\n  \n   本文约2400字，建议阅读6分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司",
-    "cover": "https://picsum.photos/seed/news-2443/800/450",
+    "cover": "https://picsum.photos/seed/news-7025/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>\n \n \n  \n  图源/企业\n  \n   本文约2400字，建议阅读6分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，半醒具身曾于2025年完成首轮机构融资，投资方为上市公司飞荣达。\n  半醒具身成立于2022年，但团队早在2020年便开始了人形机器人的研发工作。公司联合创始人兼CEO陈彦2003年毕业于东南大学计算机专业，在投身机器人创业前拥有多年二级市场量化交易经验；联合创始人刘福强本科毕业于西南科技</p>"
   },
   {
-    "id": 94,
+    "id": 100,
     "title": "快看加速原创漫画IP孵化：未来一年将推出100+部精品漫画",
     "category": "industry",
     "categoryName": {
@@ -1404,13 +1494,13 @@
     },
     "lang": "zh",
     "summary": "36氪获悉，7月17日，在第五届KKWORLD快看漫乐园现场，快看漫画成功举办2026快看IP生态联盟发布会。发布会上，快看女频统筹负责人鲁韵子分享了快看漫画的内容长跑方法论。她表示，漫画仍是年轻一代最喜爱的创作与表达形式之一，未来也依然会",
-    "cover": "https://picsum.photos/seed/news-7372/800/450",
+    "cover": "https://picsum.photos/seed/news-4949/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>36氪获悉，7月17日，在第五届KKWORLD快看漫乐园现场，快看漫画成功举办2026快看IP生态联盟发布会。发布会上，快看女频统筹负责人鲁韵子分享了快看漫画的内容长跑方法论。她表示，漫画仍是年轻一代最喜爱的创作与表达形式之一，未来也依然会是。快看未来一年将推出100+部精品漫画，持续孵化能被年轻用户长期喜欢的原创漫画IP。</p>"
   },
   {
-    "id": 95,
+    "id": 101,
     "title": "腾讯智能体集中亮相世界人工智能大会",
     "category": "industry",
     "categoryName": {
@@ -1419,13 +1509,13 @@
     },
     "lang": "zh",
     "summary": "36氪获悉，7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海启幕。连续九届参展的腾讯以“Hey，我的AI Buddy”为主题，集中展示AI在各领域进化为生产生活好搭档的跃进，与本届大会“智能伙伴 共创未来”的主题相契。",
-    "cover": "https://picsum.photos/seed/news-2161/800/450",
+    "cover": "https://picsum.photos/seed/news-43/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>36氪获悉，7月17日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海启幕。连续九届参展的腾讯以“Hey，我的AI Buddy”为主题，集中展示AI在各领域进化为生产生活好搭档的跃进，与本届大会“智能伙伴 共创未来”的主题相契。</p>"
   },
   {
-    "id": 96,
+    "id": 102,
     "title": "渝开发：拟2.25亿元收购黄葛晚渡公司51%股权",
     "category": "industry",
     "categoryName": {
@@ -1434,13 +1524,13 @@
     },
     "lang": "zh",
     "summary": "36氪获悉，渝开发公告，为填补公司主城核心区高端住宅产品空白，优化“刚需与高端并举”产品结构，公司拟以现金方式收购公司关联方重庆恒诚融智投资管理有限公司持有的重庆黄葛晚渡置业发展有限公司（简称“黄葛晚渡公司”）51%股权，交易金额合计为2.",
-    "cover": "https://picsum.photos/seed/news-903/800/450",
+    "cover": "https://picsum.photos/seed/news-7375/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>36氪获悉，渝开发公告，为填补公司主城核心区高端住宅产品空白，优化“刚需与高端并举”产品结构，公司拟以现金方式收购公司关联方重庆恒诚融智投资管理有限公司持有的重庆黄葛晚渡置业发展有限公司（简称“黄葛晚渡公司”）51%股权，交易金额合计为2.25亿元。交易完成后，黄葛晚渡公司成为公司控股子公司，纳入公司合并报表范围。</p>"
   },
   {
-    "id": 97,
+    "id": 103,
     "title": "奥精医疗：公司人工骨修复材料在泰国获得注册证",
     "category": "industry",
     "categoryName": {
@@ -1449,13 +1539,13 @@
     },
     "lang": "zh",
     "summary": "36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。",
-    "cover": "https://picsum.photos/seed/news-3390/800/450",
+    "cover": "https://picsum.photos/seed/news-6546/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>36氪获悉，奥精医疗公告，公司于2026年5月向泰国食品药品监督管理局（TFDA）递交了公司人工骨修复材料的注册申报资料。公司于近日收到泰国食品药品监督管理局通知，公司人工骨修复材料获得批准。</p>"
   },
   {
-    "id": 98,
+    "id": 104,
     "title": "热门中概股美股盘前普跌，小鹏集团跌超5%",
     "category": "industry",
     "categoryName": {
@@ -1464,43 +1554,13 @@
     },
     "lang": "zh",
     "summary": "36氪获悉，热门中概股美股盘前普跌，截至发稿，B站、小鹏集团跌超5%，理想汽车、蔚来跌超3%，阿里巴巴、微博、拼多多跌超2%，京东跌0.37%。",
-    "cover": "https://picsum.photos/seed/news-2014/800/450",
+    "cover": "https://picsum.photos/seed/news-8951/800/450",
     "pubdate": "2026-07-17 00:00",
     "source": "www.36kr.com",
     "content": "<p>36氪获悉，热门中概股美股盘前普跌，截至发稿，B站、小鹏集团跌超5%，理想汽车、蔚来跌超3%，阿里巴巴、微博、拼多多跌超2%，京东跌0.37%。</p>"
   },
   {
-    "id": 99,
-    "title": "A White House teleprompter operator reportedly won big betting on presidential speeches",
-    "category": "digital",
-    "categoryName": {
-      "en": "Digital",
-      "zh": "数码"
-    },
-    "lang": "en",
-    "summary": "The staff member allegedly made over $100,000 on Kalshi.",
-    "cover": "https://picsum.photos/seed/news-1379/800/450",
-    "pubdate": "2026-07-16 23:10",
-    "source": "www.engadget.com",
-    "content": "<p>The staff member allegedly made over $100,000 on Kalshi.</p>"
-  },
-  {
-    "id": 100,
-    "title": "Netflix says it's already used AI in 'roughly 300' titles this year",
-    "category": "digital",
-    "categoryName": {
-      "en": "Digital",
-      "zh": "数码"
-    },
-    "lang": "en",
-    "summary": "Don't expect that number to shrink any time soon.",
-    "cover": "https://picsum.photos/seed/news-614/800/450",
-    "pubdate": "2026-07-16 22:51",
-    "source": "www.engadget.com",
-    "content": "<p>Don't expect that number to shrink any time soon.</p>"
-  },
-  {
-    "id": 101,
+    "id": 105,
     "title": "New Lawsuit Filed Against Apple for &#039;Hide My Email&#039; Privacy Vulnerability",
     "category": "digital",
     "categoryName": {
@@ -1509,13 +1569,13 @@
     },
     "lang": "en",
     "summary": "A major flaw in Apple&#039;s Hide My Email feature exposes users&#039; real email addresses to anyone who can look them ",
-    "cover": "https://picsum.photos/seed/news-6128/800/450",
+    "cover": "https://picsum.photos/seed/news-7640/800/450",
     "pubdate": "2026-07-16 22:45",
     "source": "www.cnet.com",
     "content": "<p>A major flaw in Apple&#039;s Hide My Email feature exposes users&#039; real email addresses to anyone who can look them up online.</p>"
   },
   {
-    "id": 102,
+    "id": 106,
     "title": "Two Trump health nominees crash and burn in tense Senate hearing",
     "category": "tech",
     "categoryName": {
@@ -1524,13 +1584,13 @@
     },
     "lang": "en",
     "summary": "Both nominees flailed in their own unique ways as senators sought answers.",
-    "cover": "https://picsum.photos/seed/news-5419/800/450",
+    "cover": "https://picsum.photos/seed/news-4625/800/450",
     "pubdate": "2026-07-16 22:33",
     "source": "feeds.arstechnica.com",
     "content": "<p>Both nominees flailed in their own unique ways as senators sought answers.</p>"
   },
   {
-    "id": 103,
+    "id": 107,
     "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
     "category": "tech",
     "categoryName": {
@@ -1539,28 +1599,13 @@
     },
     "lang": "en",
     "summary": "Resellers threatened to ditch HP printing supplies for counterfeits. ",
-    "cover": "https://picsum.photos/seed/news-4036/800/450",
+    "cover": "https://picsum.photos/seed/news-8658/800/450",
     "pubdate": "2026-07-16 22:02",
     "source": "feeds.arstechnica.com",
     "content": "<p>Resellers threatened to ditch HP printing supplies for counterfeits. </p>"
   },
   {
-    "id": 104,
-    "title": "OpenAI&#039;s Hardware Plans Have a Bigger Problem Than Apple&#039;s Lawsuit",
-    "category": "digital",
-    "categoryName": {
-      "en": "Digital",
-      "zh": "数码"
-    },
-    "lang": "en",
-    "summary": "Commentary: Beyond proving the ChatGPT maker didn&#039;t steal Apple&#039;s trade secrets, OpenAI needs to prove to ever",
-    "cover": "https://picsum.photos/seed/news-3835/800/450",
-    "pubdate": "2026-07-16 21:55",
-    "source": "www.cnet.com",
-    "content": "<p>Commentary: Beyond proving the ChatGPT maker didn&#039;t steal Apple&#039;s trade secrets, OpenAI needs to prove to everyone else that AI devices are a good idea.</p>"
-  },
-  {
-    "id": 105,
+    "id": 108,
     "title": "T-Mobile bungled forced plan migration, canceling some users' free lines",
     "category": "tech",
     "categoryName": {
@@ -1569,13 +1614,13 @@
     },
     "lang": "en",
     "summary": "T-Mobile to restore free lines lost during plan migration, but price hikes remain.",
-    "cover": "https://picsum.photos/seed/news-4092/800/450",
+    "cover": "https://picsum.photos/seed/news-4226/800/450",
     "pubdate": "2026-07-16 20:52",
     "source": "feeds.arstechnica.com",
     "content": "<p>T-Mobile to restore free lines lost during plan migration, but price hikes remain.</p>"
   },
   {
-    "id": 106,
+    "id": 109,
     "title": "It's official: EU will force Google to share search data and open up AI on Android",
     "category": "tech",
     "categoryName": {
@@ -1584,13 +1629,13 @@
     },
     "lang": "en",
     "summary": "Google says these changes could endanger user privacy and security. ",
-    "cover": "https://picsum.photos/seed/news-9565/800/450",
+    "cover": "https://picsum.photos/seed/news-4539/800/450",
     "pubdate": "2026-07-16 20:41",
     "source": "feeds.arstechnica.com",
     "content": "<p>Google says these changes could endanger user privacy and security. </p>"
   },
   {
-    "id": 107,
+    "id": 110,
     "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
     "category": "tech",
     "categoryName": {
@@ -1599,28 +1644,13 @@
     },
     "lang": "en",
     "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
-    "cover": "https://picsum.photos/seed/news-8301/800/450",
+    "cover": "https://picsum.photos/seed/news-1890/800/450",
     "pubdate": "2026-07-16 20:26",
     "source": "feeds.arstechnica.com",
     "content": "<p>Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.</p>"
   },
   {
-    "id": 108,
-    "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
-    "category": "tech",
-    "categoryName": {
-      "en": "Tech",
-      "zh": "科技"
-    },
-    "lang": "en",
-    "summary": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.\n",
-    "cover": "https://picsum.photos/seed/news-1311/800/450",
-    "pubdate": "2026-07-16 20:09",
-    "source": "feeds.arstechnica.com",
-    "content": "<p>Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.\n</p>"
-  },
-  {
-    "id": 109,
+    "id": 111,
     "title": "Here&apos;s why the housing market is hurting so much this summer",
     "category": "finance",
     "categoryName": {
@@ -1629,28 +1659,13 @@
     },
     "lang": "en",
     "summary": "Mortgage rates are high, home prices at record levels, and consumers stressed — all contributing to a drop in existing h",
-    "cover": "https://picsum.photos/seed/news-2891/800/450",
+    "cover": "https://picsum.photos/seed/news-9283/800/450",
     "pubdate": "2026-07-16 20:06",
     "source": "www.cnbc.com",
     "content": "<p>Mortgage rates are high, home prices at record levels, and consumers stressed — all contributing to a drop in existing home sales and builder sentiment.</p>"
   },
   {
-    "id": 110,
-    "title": "Trump teleprompter aide made $100,000 betting on what Trump would say, reports say",
-    "category": "tech",
-    "categoryName": {
-      "en": "Tech",
-      "zh": "科技"
-    },
-    "lang": "en",
-    "summary": "If only someone could have predicted it.",
-    "cover": "https://picsum.photos/seed/news-3991/800/450",
-    "pubdate": "2026-07-16 19:55",
-    "source": "feeds.arstechnica.com",
-    "content": "<p>If only someone could have predicted it.</p>"
-  },
-  {
-    "id": 111,
+    "id": 112,
     "title": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
     "category": "finance",
     "categoryName": {
@@ -1659,13 +1674,13 @@
     },
     "lang": "en",
     "summary": "The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring",
-    "cover": "https://picsum.photos/seed/news-548/800/450",
+    "cover": "https://picsum.photos/seed/news-1219/800/450",
     "pubdate": "2026-07-16 19:00",
     "source": "www.cnbc.com",
     "content": "<p>The healthcare giant is working to stabilize margins by shrinking membership, exiting unprofitable contracts and pouring $1.5 billion into AI.</p>"
   },
   {
-    "id": 112,
+    "id": 113,
     "title": "Sen. Warren says Trump&apos;s CFPB overhaul has cost Americans $26.5 billion",
     "category": "finance",
     "categoryName": {
@@ -1674,13 +1689,13 @@
     },
     "lang": "en",
     "summary": "Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $2",
-    "cover": "https://picsum.photos/seed/news-2516/800/450",
+    "cover": "https://picsum.photos/seed/news-293/800/450",
     "pubdate": "2026-07-16 16:36",
     "source": "www.cnbc.com",
     "content": "<p>Sen. Elizabeth Warren says the Trump administration's rollback of CFPB rules and enforcement has cost Americans up to $26.5 billion so far.</p>"
   },
   {
-    "id": 113,
+    "id": 114,
     "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
     "category": "finance",
     "categoryName": {
@@ -1689,13 +1704,13 @@
     },
     "lang": "en",
     "summary": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both do",
-    "cover": "https://picsum.photos/seed/news-3956/800/450",
+    "cover": "https://picsum.photos/seed/news-5676/800/450",
     "pubdate": "2026-07-16 12:13",
     "source": "www.cnbc.com",
     "content": "<p>United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.</p>"
   },
   {
-    "id": 114,
+    "id": 115,
     "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
     "category": "finance",
     "categoryName": {
@@ -1704,13 +1719,13 @@
     },
     "lang": "en",
     "summary": "Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by ",
-    "cover": "https://picsum.photos/seed/news-1796/800/450",
+    "cover": "https://picsum.photos/seed/news-7051/800/450",
     "pubdate": "2026-07-15 18:45",
     "source": "www.cnbc.com",
     "content": "<p>Goldman Sachs and JPMorgan showed that Wall Street is a major beneficiary of the AI boom, with record revenue driven by surging trading and investment banking.</p>"
   },
   {
-    "id": 115,
+    "id": 116,
     "title": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
     "category": "finance",
     "categoryName": {
@@ -1719,13 +1734,13 @@
     },
     "lang": "en",
     "summary": "Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to b",
-    "cover": "https://picsum.photos/seed/news-4053/800/450",
+    "cover": "https://picsum.photos/seed/news-7977/800/450",
     "pubdate": "2026-07-15 17:22",
     "source": "www.cnbc.com",
     "content": "<p>Anthropic is lining up investor meetings ahead of a potential IPO as soon as October as the AI startup behind looks to beat rival OpenAI to the public markets.</p>"
   },
   {
-    "id": 116,
+    "id": 117,
     "title": "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
     "category": "finance",
     "categoryName": {
@@ -1734,13 +1749,13 @@
     },
     "lang": "en",
     "summary": "JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine ",
-    "cover": "https://picsum.photos/seed/news-9177/800/450",
+    "cover": "https://picsum.photos/seed/news-1174/800/450",
     "pubdate": "2026-07-15 13:45",
     "source": "www.cnbc.com",
     "content": "<p>JPMorgan Chase CEO Jamie Dimon unveiled a $24 million package to bolster American shipbuilding, funding a new submarine facility at the Philadelphia Navy Yard.</p>"
   },
   {
-    "id": 117,
+    "id": 118,
     "title": "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
     "category": "finance",
     "categoryName": {
@@ -1749,13 +1764,13 @@
     },
     "lang": "en",
     "summary": "Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.",
-    "cover": "https://picsum.photos/seed/news-213/800/450",
+    "cover": "https://picsum.photos/seed/news-7371/800/450",
     "pubdate": "2026-07-15 13:44",
     "source": "www.cnbc.com",
     "content": "<p>Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results.</p>"
   },
   {
-    "id": 118,
+    "id": 119,
     "title": "Lucid dismisses report that it is weighing filing for bankruptcy or going private after shares plung",
     "category": "finance",
     "categoryName": {
@@ -1764,40 +1779,25 @@
     },
     "lang": "en",
     "summary": "The report said Lucid was considering options that could include going private or filing for bankruptcy protection.",
-    "cover": "https://picsum.photos/seed/news-8099/800/450",
+    "cover": "https://picsum.photos/seed/news-7207/800/450",
     "pubdate": "2026-07-14 20:04",
     "source": "www.cnbc.com",
     "content": "<p>The report said Lucid was considering options that could include going private or filing for bankruptcy protection.</p>"
   },
   {
-    "id": 119,
-    "title": "T. rex sells for $50 million, becoming the most expensive dinosaur fossil ever auctioned",
-    "category": "finance",
-    "categoryName": {
-      "en": "Finance",
-      "zh": "财经"
-    },
-    "lang": "en",
-    "summary": "It passes a stegosaurus skeleton that billionaire hedge funder Ken Griffin bought for $44.6 million in 2024.",
-    "cover": "https://picsum.photos/seed/news-8401/800/450",
-    "pubdate": "2026-07-14 17:12",
-    "source": "www.cnbc.com",
-    "content": "<p>It passes a stegosaurus skeleton that billionaire hedge funder Ken Griffin bought for $44.6 million in 2024.</p>"
-  },
-  {
     "id": 120,
-    "title": "Paramount still plans to close WBD merger by end of September despite lawsuit",
-    "category": "finance",
+    "title": "Frank Lloyd Wright&#x27;s First Home",
+    "category": "industry",
     "categoryName": {
-      "en": "Finance",
-      "zh": "财经"
+      "en": "Industry",
+      "zh": "行业资讯"
     },
     "lang": "en",
-    "summary": "Paramount is still planning for its acquisition of Warner Bros. Discovery to close by late September despite lawsuit cha",
-    "cover": "https://picsum.photos/seed/news-5647/800/450",
-    "pubdate": "2026-07-14 15:36",
-    "source": "www.cnbc.com",
-    "content": "<p>Paramount is still planning for its acquisition of Warner Bros. Discovery to close by late September despite lawsuit challenge from state attorneys general.</p>"
+    "summary": "Comments",
+    "cover": "https://picsum.photos/seed/news-9284/800/450",
+    "pubdate": "2026-07-13 02:23",
+    "source": "news.ycombinator.com",
+    "content": "<p>Comments</p>"
   },
   {
     "id": 121,
@@ -1809,7 +1809,7 @@
     },
     "lang": "en",
     "summary": "<p style=&quot;text-align: left;&quot;>Three weeks ago, I tested something that completely changed how I think about org",
-    "cover": "https://picsum.photos/seed/news-8321/800/450",
+    "cover": "https://picsum.photos/seed/news-9296/800/450",
     "pubdate": "2025-12-04 05:37",
     "source": "feeds.feedburner.com",
     "content": "<p><p style=&quot;text-align: left;&quot;>Three weeks ago, I tested something that completely changed how I think about organic traffic. I opened ChatGPT and asked a simple question: &quot;What&#39;s the best course on building SaaS with WordPress?&quot; The answer that appeared stopped me cold. My cou</p>"
@@ -1824,7 +1824,7 @@
     },
     "lang": "en",
     "summary": "<div style=&quot;text-align: left;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5Qgw",
-    "cover": "https://picsum.photos/seed/news-6416/800/450",
+    "cover": "https://picsum.photos/seed/news-3796/800/450",
     "pubdate": "2025-01-02 09:26",
     "source": "feeds.feedburner.com",
     "content": "<p><div style=&quot;text-align: left;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge5QgwLKWbavTUhIedQLI79z5BGD4h0ZoH4YMK6bGBL6fY4Je8R3GZurMZaJmtYirFS6pS-GgZD3xFAqfln8w8faEY2iDehndQNeez57DoiDsgYFJrIwMOLBjzcZiOJrqYDktm6pmRkwtprJChag0yQoeEZx1Pa_eKnt3kKzz69f-FSPWu_JXQxFq5</p>"
@@ -1839,7 +1839,7 @@
     },
     "lang": "en",
     "summary": "<p style=&quot;text-align: left;&quot;><span style=&quot;font-family: Oxygen;&quot;>&nbsp;</span></p><p style=&quot;text",
-    "cover": "https://picsum.photos/seed/news-4214/800/450",
+    "cover": "https://picsum.photos/seed/news-7382/800/450",
     "pubdate": "2023-12-12 16:10",
     "source": "feeds.feedburner.com",
     "content": "<p><p style=&quot;text-align: left;&quot;><span style=&quot;font-family: Oxygen;&quot;>&nbsp;</span></p><p style=&quot;text-align: left;&quot;><span style=&quot;font-family: Oxygen;&quot;>In the rapidly advancing landscape of AI technology and innovation, LimeWire emerges as a unique platform in the re</p>"
@@ -1854,7 +1854,7 @@
     },
     "lang": "en",
     "summary": "<p><span style=&quot;font-family: Montserrat;&quot;><br /></span></p><div class=&quot;separator&quot; style=&quot;clear:",
-    "cover": "https://picsum.photos/seed/news-1478/800/450",
+    "cover": "https://picsum.photos/seed/news-5779/800/450",
     "pubdate": "2023-01-25 19:52",
     "source": "feeds.feedburner.com",
     "content": "<p><p><span style=&quot;font-family: Montserrat;&quot;><br /></span></p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu91xnR3LQV62WoiA0scuFOTa-Xx9vIwouaceeyosFtZrJB0UivYIWtbcF3TCWEjKhRQVBiSeB</p>"
@@ -1869,7 +1869,7 @@
     },
     "lang": "en",
     "summary": "<div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.google",
-    "cover": "https://picsum.photos/seed/news-1713/800/450",
+    "cover": "https://picsum.photos/seed/news-6766/800/450",
     "pubdate": "2022-11-15 08:58",
     "source": "feeds.feedburner.com",
     "content": "<p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBctm5Egmcjk0M2MgIO-nxagQkcnEng710MSuurlF8JRIZETNCnB2Rq8PxbVumtmA9KQBwJr6fHI5o-6ZZQnVjmhr7WEIiUxggtbSYDLb0_F5ZrDxSDEIBdTLB6S6U3L9RS-Cqze1JJmz3_</p>"
@@ -1884,7 +1884,7 @@
     },
     "lang": "en",
     "summary": "<table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quo",
-    "cover": "https://picsum.photos/seed/news-205/800/450",
+    "cover": "https://picsum.photos/seed/news-6274/800/450",
     "pubdate": "2022-09-10 08:57",
     "source": "feeds.feedburner.com",
     "content": "<p><table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;><tbody><tr><td style=&quot;text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ2xl/</p>"
@@ -1899,7 +1899,7 @@
     },
     "lang": "en",
     "summary": "<p><span style=&quot;font-family: Comfortaa;&quot;>&nbsp;&nbsp;<br /></span></p><table align=&quot;center&quot; cellpadd",
-    "cover": "https://picsum.photos/seed/news-8753/800/450",
+    "cover": "https://picsum.photos/seed/news-362/800/450",
     "pubdate": "2022-07-13 15:25",
     "source": "feeds.feedburner.com",
     "content": "<p><p><span style=&quot;font-family: Comfortaa;&quot;>&nbsp;&nbsp;<br /></span></p><table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;><tbody><tr><td style=&quot;text-align: c</p>"
@@ -1914,7 +1914,7 @@
     },
     "lang": "en",
     "summary": "<p><span style=&quot;font-family: Frank Ruhl Libre;&quot;></span></p><div class=&quot;separator&quot; style=&quot;clear:",
-    "cover": "https://picsum.photos/seed/news-564/800/450",
+    "cover": "https://picsum.photos/seed/news-611/800/450",
     "pubdate": "2022-06-01 13:03",
     "source": "feeds.feedburner.com",
     "content": "<p><p><span style=&quot;font-family: Frank Ruhl Libre;&quot;></span></p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/b/R29vZ</p>"
@@ -1929,7 +1929,7 @@
     },
     "lang": "en",
     "summary": "<table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quo",
-    "cover": "https://picsum.photos/seed/news-1991/800/450",
+    "cover": "https://picsum.photos/seed/news-2346/800/450",
     "pubdate": "2022-04-18 05:49",
     "source": "feeds.feedburner.com",
     "content": "<p><table align=&quot;center&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; class=&quot;tr-caption-container&quot; style=&quot;margin-left: auto; margin-right: auto;&quot;><tbody><tr><td style=&quot;text-align: center;&quot;><img alt=&quot;What is Blockchain&quot; border=&quot;0&quot; data-o</p>"
@@ -1944,7 +1944,7 @@
     },
     "lang": "en",
     "summary": "<h2 style=&quot;text-align: left;&quot;><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&qu",
-    "cover": "https://picsum.photos/seed/news-7120/800/450",
+    "cover": "https://picsum.photos/seed/news-5492/800/450",
     "pubdate": "2022-03-13 15:04",
     "source": "feeds.feedburner.com",
     "content": "<p><h2 style=&quot;text-align: left;&quot;><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEjF7I9iAp1Tfc6kFmKNOYqqI2V1NjZ1ltfemNKGCo1nvQlCy0DWGe_hNag4uruW_SW6tMwc0M8sa4O7ca4zQ6Hiiu6TDi4VAohA3aTPmU4KuRqBC2</p>"
@@ -1959,7 +1959,7 @@
     },
     "lang": "en",
     "summary": "<h2 style=&quot;text-align: left;&quot;><span style=&quot;font-family: Comfortaa;&quot;>&nbsp;</span></h2><div class=&qu",
-    "cover": "https://picsum.photos/seed/news-9124/800/450",
+    "cover": "https://picsum.photos/seed/news-5021/800/450",
     "pubdate": "2022-03-12 11:54",
     "source": "feeds.feedburner.com",
     "content": "<p><h2 style=&quot;text-align: left;&quot;><span style=&quot;font-family: Comfortaa;&quot;>&nbsp;</span></h2><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><span style=&quot;font-family: Comfortaa;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/a/AVvX</p>"
@@ -1974,7 +1974,7 @@
     },
     "lang": "en",
     "summary": "<div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.google",
-    "cover": "https://picsum.photos/seed/news-809/800/450",
+    "cover": "https://picsum.photos/seed/news-9246/800/450",
     "pubdate": "2022-03-01 12:16",
     "source": "feeds.feedburner.com",
     "content": "<p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgjp-Lwdt6oYlgGQ0HWI9cLSBOiniI0CKOWnRWuiQTe2uBJIenevsoZKESvI4-Uo-4r6VU1RjQZUtLtpA1vJyAZhg0fEFn-wOintkjZnNkYcZjS0XIs3XQ2dPgOwKfZZw4YubtvjfJRsVyRBc4tCckB7y</p>"
@@ -1989,7 +1989,7 @@
     },
     "lang": "en",
     "summary": "<div style=&quot;text-align: left;&quot;><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&q",
-    "cover": "https://picsum.photos/seed/news-2654/800/450",
+    "cover": "https://picsum.photos/seed/news-4453/800/450",
     "pubdate": "2022-02-26 13:36",
     "source": "feeds.feedburner.com",
     "content": "<p><div style=&quot;text-align: left;&quot;><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEgpTleC7nbtAf6ZqNeNw3zr0CpxWqvP175ArBM_TBOd_D2XjD_CGwF2TM9OsWbwU_-C1BEOe2OXJ_oSgpXDk-KKLqU3hWGz4nlEFbfUnDMGrG7CV</p>"
@@ -2004,7 +2004,7 @@
     },
     "lang": "en",
     "summary": "<p></p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger",
-    "cover": "https://picsum.photos/seed/news-3066/800/450",
+    "cover": "https://picsum.photos/seed/news-8432/800/450",
     "pubdate": "2022-02-20 12:02",
     "source": "feeds.feedburner.com",
     "content": "<p><p></p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEiljHs4qU-lZzbi0TWFIn9ZuZKsIqXppAn9S2OA4I8hviC-oeROUJF6PF5KTjPEWQ2irXcq0ZnCIPMK0pBNstNrtYIDtMsqgNkw7owWNq3iv6svrjwvE0qzmQPxWCqb8zFpAZp2h-nbXAycwtk</p>"
@@ -2019,7 +2019,7 @@
     },
     "lang": "en",
     "summary": "<p><span style=&quot;font-family: Comfortaa;&quot;>&nbsp;</span></p><div class=&quot;separator&quot; style=&quot;clear: ",
-    "cover": "https://picsum.photos/seed/news-6960/800/450",
+    "cover": "https://picsum.photos/seed/news-3089/800/450",
     "pubdate": "2022-02-11 09:00",
     "source": "feeds.feedburner.com",
     "content": "<p><p><span style=&quot;font-family: Comfortaa;&quot;>&nbsp;</span></p><div class=&quot;separator&quot; style=&quot;clear: both; text-align: center;&quot;><a href=&quot;https://blogger.googleusercontent.com/img/a/AVvXsEh83RF5KAieFKbr8sc_oPwJu-O9cNT4jJC_X80CRTLCtAzm-P2Cmve2aQCJ34ry4Dve9p9APjCwN1Nk8y8pzG</p>"
