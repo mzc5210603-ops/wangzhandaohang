@@ -3,17 +3,158 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechNews Test</title>
+    <meta name="description" content="TechNews - Focused on tech, finance, digital and industry news. Latest tech trends, industry analysis, product reviews">
+    <meta name="keywords" content="tech news, finance news, digital reviews, industry trends, AI, internet, technology">
+    <meta property="og:title" content="TechNews - Technology News Hub">
+    <meta property="og:description" content="Focused on tech, finance, digital and industry news">
+    <meta property="og:type" content="website">
+    <title>TechNews - Technology News Hub</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
 </head>
-<body class="bg-gray-50">
-    <div class="max-w-4xl mx-auto px-4 py-8">
-        <h1 class="text-2xl font-bold text-blue-600">TechNews Test</h1>
-        <p class="text-gray-600 mt-4">Testing basic deployment...</p>
-        <div id="test-content"></div>
+<body class="bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors duration-300">
+    <nav class="navbar fixed top-0 left-0 right-0 z-50 bg-white/80 dark:bg-gray-900/80 backdrop-blur-lg border-b border-gray-200 dark:border-gray-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center space-x-8">
+                    <a href="#" class="text-2xl font-bold text-blue-600 dark:text-blue-400">TechNews</a>
+                    <div class="hidden md:flex items-center space-x-1">
+                        <a href="#" class="nav-link active" data-category="all">Home</a>
+                        <a href="#" class="nav-link" data-category="tech">Tech</a>
+                        <a href="#" class="nav-link" data-category="finance">Finance</a>
+                        <a href="#" class="nav-link" data-category="digital">Digital</a>
+                        <a href="#" class="nav-link" data-category="industry">Industry</a>
+                    </div>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <div class="relative">
+                        <input type="text" id="search-input" placeholder="Search news..." class="search-input">
+                        <button id="search-btn" class="search-btn">🔍</button>
+                    </div>
+                    <div class="lang-dropdown-wrapper">
+                        <button id="lang-toggle" class="lang-toggle">🇺🇸 English ▾</button>
+                        <div id="lang-dropdown" class="lang-dropdown">
+                            <div class="lang-option" data-lang="en">🇺🇸 English</div>
+                            <div class="lang-option" data-lang="zh">🇨🇳 中文</div>
+                            <div class="lang-option" data-lang="zh-TW">🇹🇼 繁體中文</div>
+                            <div class="lang-option" data-lang="ja">🇯🇵 日本語</div>
+                            <div class="lang-option" data-lang="ko">🇰🇷 한국어</div>
+                            <div class="lang-option" data-lang="fr">🇫🇷 Français</div>
+                            <div class="lang-option" data-lang="de">🇩🇪 Deutsch</div>
+                            <div class="lang-option" data-lang="es">🇪🇸 Español</div>
+                            <div class="lang-option" data-lang="ru">🇷🇺 Русский</div>
+                            <div class="lang-option" data-lang="pt">🇵🇹 Português</div>
+                            <div class="lang-option" data-lang="it">🇮🇹 Italiano</div>
+                            <div class="lang-option" data-lang="ar">🇸🇦 العربية</div>
+                        </div>
+                    </div>
+                    <button id="theme-toggle" class="theme-toggle">🌓</button>
+                </div>
+            </div>
+        </div>
+        <div class="md:hidden bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 px-4 py-2">
+            <div class="flex flex-col space-y-2">
+                <a href="#" class="nav-link active" data-category="all">Home</a>
+                <a href="#" class="nav-link" data-category="tech">Tech</a>
+                <a href="#" class="nav-link" data-category="finance">Finance</a>
+                <a href="#" class="nav-link" data-category="digital">Digital</a>
+                <a href="#" class="nav-link" data-category="industry">Industry</a>
+            </div>
+        </div>
+    </nav>
+
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-16">
+        <section id="carousel-section" class="mb-12">
+            <div class="carousel-container relative overflow-hidden rounded-2xl shadow-xl">
+                <div class="carousel-track flex transition-transform duration-500 ease-out">
+                    <div class="carousel-slide flex-shrink-0 w-full"></div>
+                    <div class="carousel-slide flex-shrink-0 w-full"></div>
+                    <div class="carousel-slide flex-shrink-0 w-full"></div>
+                </div>
+                <button class="carousel-prev absolute left-4 top-1/2 -translate-y-1/2">‹</button>
+                <button class="carousel-next absolute right-4 top-1/2 -translate-y-1/2">›</button>
+                <div class="carousel-indicators absolute bottom-4 left-1/2 -translate-x-1/2 flex space-x-2"></div>
+            </div>
+        </section>
+
+        <div class="flex flex-col lg:flex-row gap-8">
+            <div class="flex-1">
+                <section id="news-section" class="mb-8">
+                    <div class="flex items-center justify-between mb-6">
+                        <h2 class="text-2xl font-bold">Latest News</h2>
+                        <div class="flex space-x-2">
+                            <button class="filter-btn active" data-filter="latest">Latest</button>
+                            <button class="filter-btn" data-filter="hot">Hot</button>
+                        </div>
+                    </div>
+                    <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
+                </section>
+            </div>
+
+            <aside class="lg:w-80 space-y-6">
+                <section class="sidebar-card">
+                    <h3 class="text-lg font-semibold mb-4">Hot Ranking</h3>
+                    <div id="hot-news-list" class="space-y-3"></div>
+                </section>
+
+                <section class="sidebar-card">
+                    <h3 class="text-lg font-semibold mb-4">Categories</h3>
+                    <div id="category-tags" class="flex flex-wrap gap-2"></div>
+                </section>
+
+                <section class="sidebar-card">
+                    <h3 class="text-lg font-semibold mb-4">Recent Updates</h3>
+                    <div id="recent-news-list" class="space-y-3"></div>
+                </section>
+            </aside>
+        </div>
+    </main>
+
+    <footer class="bg-gray-800 dark:bg-gray-950 text-gray-400">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <h4 class="text-white font-semibold mb-4">TechNews</h4>
+                    <p class="text-sm">Focused on tech, finance, digital and industry news, providing latest tech trends, industry analysis, and product reviews.</p>
+                </div>
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Quick Navigation</h4>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="#" class="hover:text-white transition-colors">Home</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Tech</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Finance</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Digital</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Subscribe</h4>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="/rss.xml" class="hover:text-white transition-colors">📡 RSS Feed</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">📧 Email Subscribe</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-white font-semibold mb-4">Contact Us</h4>
+                    <ul class="space-y-2 text-sm">
+                        <li><a href="#" class="hover:text-white transition-colors">Business Cooperation</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">Friend Links</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-sm">
+                <p>&copy; 2026 TechNews. All rights reserved.</p>
+                <p class="mt-2 text-gray-600">tech news, finance news, digital reviews, industry trends, AI, internet, technology</p>
+            </div>
+        </div>
+    </footer>
+
+    <div id="news-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button class="modal-close">×</button>
+            <div id="modal-body" class="overflow-y-auto"></div>
+        </div>
     </div>
-    <script>
-        document.getElementById('test-content').innerHTML = '<p class="text-green-600 mt-4">✓ JavaScript loaded successfully!</p>';
-    </script>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
