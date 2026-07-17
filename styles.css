@@ -375,6 +375,35 @@ body {
     box-shadow: var(--shadow-light);
 }
 
+/* 侧边栏 sticky + 独立滚动 */
+@media (min-width: 1024px) {
+    main .flex.lg\\:flex-row > aside {
+        position: sticky;
+        top: 6rem;
+        max-height: calc(100vh - 8rem);
+        overflow-y: auto;
+        padding-right: 0.25rem;
+    }
+
+    /* 侧边栏内部滚动条样式 */
+    main .flex.lg\\:flex-row > aside::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    main .flex.lg\\:flex-row > aside::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    main .flex.lg\\:flex-row > aside::-webkit-scrollbar-thumb {
+        background: var(--border-color);
+        border-radius: 3px;
+    }
+
+    main .flex.lg\\:flex-row > aside::-webkit-scrollbar-thumb:hover {
+        background: var(--text-secondary);
+    }
+}
+
 .hot-news-item {
     display: flex;
     align-items: flex-start;
