@@ -19,16 +19,16 @@
                 <div class="flex items-center space-x-8">
                     <a href="#" class="text-2xl font-bold text-blue-600 dark:text-blue-400">TechNews</a>
                     <div class="hidden md:flex items-center space-x-1">
-                        <a href="#" class="nav-link active" data-category="all">Home</a>
-                        <a href="#" class="nav-link" data-category="tech">Tech</a>
-                        <a href="#" class="nav-link" data-category="finance">Finance</a>
-                        <a href="#" class="nav-link" data-category="digital">Digital</a>
-                        <a href="#" class="nav-link" data-category="industry">Industry</a>
+                        <a href="#" class="nav-link active" data-category="all" data-i18n="nav.home">Home</a>
+                        <a href="#" class="nav-link" data-category="tech" data-i18n="nav.tech">Tech</a>
+                        <a href="#" class="nav-link" data-category="finance" data-i18n="nav.finance">Finance</a>
+                        <a href="#" class="nav-link" data-category="digital" data-i18n="nav.digital">Digital</a>
+                        <a href="#" class="nav-link" data-category="industry" data-i18n="nav.industry">Industry</a>
                     </div>
                 </div>
                 <div class="flex items-center space-x-4">
                     <div class="relative">
-                        <input type="text" id="search-input" placeholder="Search news..." class="search-input">
+                        <input type="text" id="search-input" placeholder="Search news..." class="search-input" data-i18n-placeholder="search.placeholder">
                         <button id="search-btn" class="search-btn">🔍</button>
                     </div>
                     <div class="lang-dropdown-wrapper">
@@ -54,11 +54,11 @@
         </div>
         <div class="md:hidden bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 px-4 py-2">
             <div class="flex flex-col space-y-2">
-                <a href="#" class="nav-link active" data-category="all">Home</a>
-                <a href="#" class="nav-link" data-category="tech">Tech</a>
-                <a href="#" class="nav-link" data-category="finance">Finance</a>
-                <a href="#" class="nav-link" data-category="digital">Digital</a>
-                <a href="#" class="nav-link" data-category="industry">Industry</a>
+                <a href="#" class="nav-link active" data-category="all" data-i18n="nav.home">Home</a>
+                <a href="#" class="nav-link" data-category="tech" data-i18n="nav.tech">Tech</a>
+                <a href="#" class="nav-link" data-category="finance" data-i18n="nav.finance">Finance</a>
+                <a href="#" class="nav-link" data-category="digital" data-i18n="nav.digital">Digital</a>
+                <a href="#" class="nav-link" data-category="industry" data-i18n="nav.industry">Industry</a>
             </div>
         </div>
     </nav>
@@ -81,10 +81,10 @@
             <div class="flex-1">
                 <section id="news-section" class="mb-8">
                     <div class="flex items-center justify-between mb-6">
-                        <h2 class="text-2xl font-bold">Latest News</h2>
+                        <h2 class="text-2xl font-bold" data-i18n="section.latest">Latest News</h2>
                         <div class="flex space-x-2">
-                            <button class="filter-btn active" data-filter="latest">Latest</button>
-                            <button class="filter-btn" data-filter="hot">Hot</button>
+                            <button class="filter-btn active" data-filter="latest" data-i18n="filter.latest">Latest</button>
+                            <button class="filter-btn" data-filter="hot" data-i18n="filter.hot">Hot</button>
                         </div>
                     </div>
                     <div id="news-grid" class="grid grid-cols-1 md:grid-cols-2 gap-6"></div>
@@ -93,17 +93,17 @@
 
             <aside class="lg:w-80 space-y-6">
                 <section class="sidebar-card">
-                    <h3 class="text-lg font-semibold mb-4">Hot Ranking</h3>
+                    <h3 class="text-lg font-semibold mb-4" data-i18n="sidebar.hotRanking">Hot Ranking</h3>
                     <div id="hot-news-list" class="space-y-3"></div>
                 </section>
 
                 <section class="sidebar-card">
-                    <h3 class="text-lg font-semibold mb-4">Categories</h3>
+                    <h3 class="text-lg font-semibold mb-4" data-i18n="sidebar.categories">Categories</h3>
                     <div id="category-tags" class="flex flex-wrap gap-2"></div>
                 </section>
 
                 <section class="sidebar-card">
-                    <h3 class="text-lg font-semibold mb-4">Recent Updates</h3>
+                    <h3 class="text-lg font-semibold mb-4" data-i18n="sidebar.recentUpdates">Recent Updates</h3>
                     <div id="recent-news-list" class="space-y-3"></div>
                 </section>
             </aside>
@@ -115,29 +115,29 @@
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div>
                     <h4 class="text-white font-semibold mb-4">TechNews</h4>
-                    <p class="text-sm">Focused on tech, finance, digital and industry news, providing latest tech trends, industry analysis, and product reviews.</p>
+                    <p class="text-sm" data-i18n="footer.about">Focused on tech, finance, digital and industry news, providing latest tech trends, industry analysis, and product reviews.</p>
                 </div>
                 <div>
-                    <h4 class="text-white font-semibold mb-4">Quick Navigation</h4>
+                    <h4 class="text-white font-semibold mb-4" data-i18n="footer.quickNav">Quick Navigation</h4>
                     <ul class="space-y-2 text-sm">
-                        <li><a href="#" class="hover:text-white transition-colors">Home</a></li>
-                        <li><a href="#" class="hover:text-white transition-colors">Tech</a></li>
-                        <li><a href="#" class="hover:text-white transition-colors">Finance</a></li>
-                        <li><a href="#" class="hover:text-white transition-colors">Digital</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors" data-i18n="nav.home">Home</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors" data-i18n="nav.tech">Tech</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors" data-i18n="nav.finance">Finance</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors" data-i18n="nav.digital">Digital</a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="text-white font-semibold mb-4">Subscribe</h4>
+                    <h4 class="text-white font-semibold mb-4" data-i18n="footer.subscribe">Subscribe</h4>
                     <ul class="space-y-2 text-sm">
-                        <li><a href="/rss.xml" class="hover:text-white transition-colors">📡 RSS Feed</a></li>
-                        <li><a href="#" class="hover:text-white transition-colors">📧 Email Subscribe</a></li>
+                        <li><a href="/rss.xml" class="hover:text-white transition-colors">📡 <span data-i18n="footer.rss">RSS Feed</span></a></li>
+                        <li><a href="#" class="hover:text-white transition-colors">📧 <span data-i18n="footer.emailSub">Email Subscribe</span></a></li>
                     </ul>
                 </div>
                 <div>
-                    <h4 class="text-white font-semibold mb-4">Contact Us</h4>
+                    <h4 class="text-white font-semibold mb-4" data-i18n="footer.contact">Contact Us</h4>
                     <ul class="space-y-2 text-sm">
-                        <li><a href="#" class="hover:text-white transition-colors">Business Cooperation</a></li>
-                        <li><a href="#" class="hover:text-white transition-colors">Friend Links</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors" data-i18n="footer.business">Business Cooperation</a></li>
+                        <li><a href="#" class="hover:text-white transition-colors" data-i18n="footer.friendLink">Friend Links</a></li>
                     </ul>
                 </div>
             </div>
