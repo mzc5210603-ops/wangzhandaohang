@@ -1,25 +1,29 @@
-/*
+/index.html
   Content-Type: text/html; charset=utf-8
   Cache-Control: public, max-age=3600
 
-*.css
+/*.html
+  Content-Type: text/html; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/*.css
   Content-Type: text/css; charset=utf-8
   Cache-Control: public, max-age=86400
 
-*.js
+/*.js
   Content-Type: application/javascript; charset=utf-8
   Cache-Control: public, max-age=86400
 
-*.json
+/*.json
   Content-Type: application/json; charset=utf-8
   Cache-Control: public, max-age=300
 
-*.xml
+/*.xml
   Content-Type: application/xml; charset=utf-8
   Cache-Control: public, max-age=3600
 
-*.jpg
+/*.jpg
   Cache-Control: public, max-age=604800
 
-*.png
+/*.png
   Cache-Control: public, max-age=604800
